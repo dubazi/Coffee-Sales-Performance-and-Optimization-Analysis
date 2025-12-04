@@ -1,0 +1,1001 @@
+transaction_date,product_id,product_category,product_type,product_detail,store_id,store_location,total_qty_sold,avg_unit_price,total_sales_value,cost_of_sales,gross_profit,gross_profit_pct
+2023-01-01,42,Tea,Brewed herbal tea,Lemon Grass Rg,8,Hell's Kitchen,6,2.5,15,9,6,40
+2023-01-01,46,Tea,Brewed Green tea,Serenity Green Tea Rg,8,Hell's Kitchen,5,2.5,12.5,7.5,5,40
+2023-01-01,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,5,Lower Manhattan,5,2.45,12.25,7.35,4.9,40
+2023-01-01,25,Coffee,Organic brewed coffee,Brazilian Sm,3,Astoria,5,2.2,11,6.6,4.4,40
+2023-01-01,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,3,Astoria,9,3.1,27.9,16.74,11.16,40
+2023-01-01,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,3,Astoria,10,2,20,12,8,40
+2023-01-01,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,3,Astoria,2,3,6,3.6,2.4,40
+2023-01-01,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,3,Astoria,6,3,18,10.8,7.2,40
+2023-01-01,75,Bakery,Pastry,Croissant,8,Hell's Kitchen,2,3.5,7,4.2,2.8,40
+2023-01-01,48,Tea,Brewed Black tea,English Breakfast Rg,8,Hell's Kitchen,5,2.5,12.5,7.5,5,40
+2023-01-01,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,8,Hell's Kitchen,2,2,4,2.4,1.6,40
+2023-01-02,51,Tea,Brewed Black tea,Earl Grey Lg,5,Lower Manhattan,6,3,18,10.8,7.2,40
+2023-01-02,79,Bakery,Scone,Jumbo Savory Scone,8,Hell's Kitchen,2,3.75,7.5,4.5,3,40
+2023-01-02,77,Bakery,Scone,Oatmeal Scone,3,Astoria,4,3,12,7.2,4.8,40
+2023-01-02,42,Tea,Brewed herbal tea,Lemon Grass Rg,3,Astoria,4,2.5,10,6,4,40
+2023-01-02,49,Tea,Brewed Black tea,English Breakfast Lg,8,Hell's Kitchen,5,3,15,9,6,40
+2023-01-02,39,Coffee,Barista Espresso,Latte Rg,3,Astoria,10,4.25,42.5,25.5,17,40
+2023-01-02,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,8,Hell's Kitchen,1,3,3,1.8,1.2,40
+2023-01-03,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,5,Lower Manhattan,1,2.5,2.5,1.5,1,40
+2023-01-03,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,3,Astoria,7,3.75,26.25,15.75,10.5,40
+2023-01-03,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,3,Astoria,8,4,32,19.2,12.8,40
+2023-01-03,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,3,Astoria,6,2.45,14.7,8.82,5.88,40
+2023-01-03,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,3,Astoria,3,2.55,7.65,4.59,3.06,40
+2023-01-03,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,3,Astoria,5,3,15,9,6,40
+2023-01-03,77,Bakery,Scone,Oatmeal Scone,8,Hell's Kitchen,2,3,6,3.6,2.4,40
+2023-01-04,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,5,Lower Manhattan,9,2,18,10.8,7.2,40
+2023-01-04,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,5,Lower Manhattan,5,3,15,9,6,40
+2023-01-04,58,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,8,Hell's Kitchen,4,3.5,14,8.4,5.6,40
+2023-01-04,71,Bakery,Pastry,Chocolate Croissant,5,Lower Manhattan,6,3.75,22.5,13.5,9,40
+2023-01-04,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,8,Hell's Kitchen,7,3.1,21.7,13.02,8.68,40
+2023-01-04,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,3,Astoria,7,3.1,21.7,13.02,8.68,40
+2023-01-04,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,5,Lower Manhattan,8,2.45,19.6,11.76,7.84,40
+2023-01-04,70,Bakery,Scone,Cranberry Scone,8,Hell's Kitchen,2,3.25,6.5,3.9,2.6,40
+2023-01-04,33,Coffee,Gourmet brewed coffee,Ethiopia Lg,3,Astoria,3,3.5,10.5,6.3,4.2,40
+2023-01-05,40,Coffee,Barista Espresso,Cappuccino,8,Hell's Kitchen,7,3.75,26.25,15.75,10.5,40
+2023-01-05,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,8,Hell's Kitchen,2,3,6,3.6,2.4,40
+2023-01-05,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,3,Astoria,15,3.75,56.25,33.75,22.5,40
+2023-01-05,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,3,Astoria,9,3.1,27.9,16.74,11.16,40
+2023-01-05,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,3,Astoria,5,2.45,12.25,7.35,4.9,40
+2023-01-05,74,Bakery,Biscotti,Ginger Biscotti,8,Hell's Kitchen,1,3.5,3.5,2.1,1.4,40
+2023-01-06,70,Bakery,Scone,Cranberry Scone,5,Lower Manhattan,2,3.25,6.5,3.9,2.6,40
+2023-01-06,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,5,Lower Manhattan,7,2.55,17.85,10.71,7.14,40
+2023-01-06,26,Coffee,Organic brewed coffee,Brazilian Rg,8,Hell's Kitchen,4,3,12,7.2,4.8,40
+2023-01-06,40,Coffee,Barista Espresso,Cappuccino,8,Hell's Kitchen,2,3.75,7.5,4.5,3,40
+2023-01-06,37,Coffee,Barista Espresso,Espresso shot,8,Hell's Kitchen,5,3,15,9,6,40
+2023-01-06,58,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,3,Astoria,5,3.5,17.5,10.5,7,40
+2023-01-06,47,Tea,Brewed Green tea,Serenity Green Tea Lg,3,Astoria,8,3,24,14.4,9.6,40
+2023-01-06,43,Tea,Brewed herbal tea,Lemon Grass Lg,5,Lower Manhattan,2,3,6,3.6,2.4,40
+2023-01-06,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,5,Lower Manhattan,5,2,10,6,4,40
+2023-01-06,79,Bakery,Scone,Jumbo Savory Scone,8,Hell's Kitchen,1,3.75,3.75,2.25,1.5,40
+2023-01-06,59,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,8,Hell's Kitchen,3,4.5,13.5,8.1,5.4,40
+2023-01-06,77,Bakery,Scone,Oatmeal Scone,3,Astoria,2,3,6,3.6,2.4,40
+2023-01-07,65,Flavours,Sugar free syrup,Sugar Free Vanilla syrup,8,Hell's Kitchen,5,0.8,4,2.4,1.6,40
+2023-01-07,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,8,Hell's Kitchen,5,2.5,12.5,7.5,5,40
+2023-01-07,26,Coffee,Organic brewed coffee,Brazilian Rg,3,Astoria,3,3,9,5.4,3.6,40
+2023-01-07,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,8,Hell's Kitchen,14,3,42,25.2,16.8,40
+2023-01-07,70,Bakery,Scone,Cranberry Scone,8,Hell's Kitchen,2,3.25,6.5,3.9,2.6,40
+2023-01-07,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,8,Hell's Kitchen,13,2,26,15.6,10.4,40
+2023-01-07,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,8,Hell's Kitchen,6,3.75,22.5,13.5,9,40
+2023-01-07,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,8,Hell's Kitchen,6,3,18,10.8,7.2,40
+2023-01-07,43,Tea,Brewed herbal tea,Lemon Grass Lg,8,Hell's Kitchen,4,3,12,7.2,4.8,40
+2023-01-07,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,5,Lower Manhattan,1,3.75,3.75,2.25,1.5,40
+2023-01-07,75,Bakery,Pastry,Croissant,3,Astoria,2,3.5,7,4.2,2.8,40
+2023-01-07,77,Bakery,Scone,Oatmeal Scone,3,Astoria,2,3,6,3.6,2.4,40
+2023-01-08,27,Coffee,Organic brewed coffee,Brazilian Lg,8,Hell's Kitchen,7,3.5,24.5,14.7,9.8,40
+2023-01-08,1,Coffee beans,Organic Beans,Brazilian - Organic,5,Lower Manhattan,3,18,54,32.4,21.6,40
+2023-01-08,74,Bakery,Biscotti,Ginger Biscotti,8,Hell's Kitchen,5,3.5,17.5,10.5,7,40
+2023-01-08,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,5,Lower Manhattan,8,2,16,9.6,6.4,40
+2023-01-08,37,Coffee,Barista Espresso,Espresso shot,3,Astoria,3,3,9,5.4,3.6,40
+2023-01-08,38,Coffee,Barista Espresso,Latte,5,Lower Manhattan,8,3.75,30,18,12,40
+2023-01-08,75,Bakery,Pastry,Croissant,8,Hell's Kitchen,2,3.5,7,4.2,2.8,40
+2023-01-08,50,Tea,Brewed Black tea,Earl Grey Rg,5,Lower Manhattan,8,2.5,20,12,8,40
+2023-01-08,41,Coffee,Barista Espresso,Cappuccino Lg,8,Hell's Kitchen,3,4.25,12.75,7.65,5.1,40
+2023-01-08,16,Loose Tea,Chai tea,Traditional Blend Chai,3,Astoria,1,8.95,8.95,5.37,3.58,40
+2023-01-08,10,Coffee beans,Green beans,Guatemalan Sustainably Grown,3,Astoria,1,10,10,6,4,40
+2023-01-09,46,Tea,Brewed Green tea,Serenity Green Tea Rg,8,Hell's Kitchen,16,2.5,40,24,16,40
+2023-01-09,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,5,Lower Manhattan,9,2.55,22.95,13.77,9.18,40
+2023-01-09,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,3,Astoria,8,3,24,14.4,9.6,40
+2023-01-09,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,5,Lower Manhattan,5,3,15,9,6,40
+2023-01-09,77,Bakery,Scone,Oatmeal Scone,3,Astoria,2,3,6,3.6,2.4,40
+2023-01-09,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,8,Hell's Kitchen,5,3,15,9,6,40
+2023-01-09,78,Bakery,Scone,Scottish Cream Scone ,5,Lower Manhattan,2,5.63,11.26,6.76,4.5,40
+2023-01-09,50,Tea,Brewed Black tea,Earl Grey Rg,8,Hell's Kitchen,8,2.5,20,12,8,40
+2023-01-09,72,Bakery,Scone,Ginger Scone,5,Lower Manhattan,2,4.06,8.12,4.87,3.25,40
+2023-01-09,42,Tea,Brewed herbal tea,Lemon Grass Rg,8,Hell's Kitchen,1,2.5,2.5,1.5,1,40
+2023-01-09,58,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,3,Astoria,2,3.5,7,4.2,2.8,40
+2023-01-09,72,Bakery,Scone,Ginger Scone,8,Hell's Kitchen,1,3.25,3.25,1.95,1.3,40
+2023-01-10,75,Bakery,Pastry,Croissant,5,Lower Manhattan,6,3.5,21,12.6,8.4,40
+2023-01-10,51,Tea,Brewed Black tea,Earl Grey Lg,3,Astoria,10,3,30,18,12,40
+2023-01-10,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,3,Astoria,6,2,12,7.2,4.8,40
+2023-01-10,9,Coffee beans,Organic Beans,Organic Decaf Blend,5,Lower Manhattan,1,22.5,22.5,13.5,9,40
+2023-01-10,20,Packaged Chocolate,Organic Chocolate,Sustainably Grown Organic,8,Hell's Kitchen,1,7.6,7.6,4.56,3.04,40
+2023-01-10,47,Tea,Brewed Green tea,Serenity Green Tea Lg,8,Hell's Kitchen,4,3,12,7.2,4.8,40
+2023-01-10,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,5,Lower Manhattan,8,2,16,9.6,6.4,40
+2023-01-10,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,3,Astoria,1,2.45,2.45,1.47,0.98,40
+2023-01-11,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,5,Lower Manhattan,5,3.1,15.5,9.3,6.2,40
+2023-01-11,64,Flavours,Regular syrup,Hazelnut syrup,8,Hell's Kitchen,2,0.8,1.6,0.96,0.64,40
+2023-01-11,47,Tea,Brewed Green tea,Serenity Green Tea Lg,8,Hell's Kitchen,10,3,30,18,12,40
+2023-01-11,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,8,Hell's Kitchen,5,3,15,9,6,40
+2023-01-11,33,Coffee,Gourmet brewed coffee,Ethiopia Lg,8,Hell's Kitchen,4,3.5,14,8.4,5.6,40
+2023-01-11,4,Coffee beans,Espresso Beans,Primo Espresso Roast,5,Lower Manhattan,1,20.45,20.45,12.27,8.18,40
+2023-01-11,50,Tea,Brewed Black tea,Earl Grey Rg,3,Astoria,5,2.5,12.5,7.5,5,40
+2023-01-12,58,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,5,Lower Manhattan,3,3.5,10.5,6.3,4.2,40
+2023-01-12,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,8,Hell's Kitchen,9,3,27,16.2,10.8,40
+2023-01-12,38,Coffee,Barista Espresso,Latte,8,Hell's Kitchen,3,3.75,11.25,6.75,4.5,40
+2023-01-12,63,Flavours,Regular syrup,Carmel syrup,8,Hell's Kitchen,8,0.8,6.4,3.84,2.56,40
+2023-01-12,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,5,Lower Manhattan,15,3.75,56.25,33.75,22.5,40
+2023-01-12,74,Bakery,Biscotti,Ginger Biscotti,3,Astoria,2,3.5,7,4.2,2.8,40
+2023-01-12,33,Coffee,Gourmet brewed coffee,Ethiopia Lg,8,Hell's Kitchen,2,3.5,7,4.2,2.8,40
+2023-01-12,40,Coffee,Barista Espresso,Cappuccino,3,Astoria,4,3.75,15,9,6,40
+2023-01-12,44,Tea,Brewed herbal tea,Peppermint Rg,5,Lower Manhattan,3,2.5,7.5,4.5,3,40
+2023-01-13,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,5,Lower Manhattan,5,4,20,12,8,40
+2023-01-13,78,Bakery,Scone,Scottish Cream Scone ,3,Astoria,3,4.5,13.5,8.1,5.4,40
+2023-01-13,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,5,Lower Manhattan,6,3,18,10.8,7.2,40
+2023-01-13,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,3,Astoria,1,3.1,3.1,1.86,1.24,40
+2023-01-13,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,8,Hell's Kitchen,6,3,18,10.8,7.2,40
+2023-01-13,79,Bakery,Scone,Jumbo Savory Scone,8,Hell's Kitchen,5,3.75,18.75,11.25,7.5,40
+2023-01-13,27,Coffee,Organic brewed coffee,Brazilian Lg,8,Hell's Kitchen,17,3.5,59.5,35.7,23.8,40
+2023-01-13,71,Bakery,Pastry,Chocolate Croissant,8,Hell's Kitchen,7,3.75,26.25,15.75,10.5,40
+2023-01-13,50,Tea,Brewed Black tea,Earl Grey Rg,3,Astoria,4,2.5,10,6,4,40
+2023-01-13,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,8,Hell's Kitchen,12,4,48,28.8,19.2,40
+2023-01-13,50,Tea,Brewed Black tea,Earl Grey Rg,5,Lower Manhattan,4,2.5,10,6,4,40
+2023-01-13,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,8,Hell's Kitchen,8,2.45,19.6,11.76,7.84,40
+2023-01-13,33,Coffee,Gourmet brewed coffee,Ethiopia Lg,5,Lower Manhattan,7,3.5,24.5,14.7,9.8,40
+2023-01-13,77,Bakery,Scone,Oatmeal Scone,5,Lower Manhattan,3,3,9,5.4,3.6,40
+2023-01-14,45,Tea,Brewed herbal tea,Peppermint Lg,5,Lower Manhattan,4,3,12,7.2,4.8,40
+2023-01-14,65,Flavours,Sugar free syrup,Sugar Free Vanilla syrup,8,Hell's Kitchen,10,0.8,8,4.8,3.2,40
+2023-01-14,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,3,Astoria,7,2.45,17.15,10.29,6.86,40
+2023-01-14,58,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,8,Hell's Kitchen,3,3.5,10.5,6.3,4.2,40
+2023-01-14,75,Bakery,Pastry,Croissant,3,Astoria,2,3.5,7,4.2,2.8,40
+2023-01-14,37,Coffee,Barista Espresso,Espresso shot,5,Lower Manhattan,5,3,15,9,6,40
+2023-01-14,4,Coffee beans,Espresso Beans,Primo Espresso Roast,3,Astoria,1,20.45,20.45,12.27,8.18,40
+2023-01-15,37,Coffee,Barista Espresso,Espresso shot,5,Lower Manhattan,6,3,18,10.8,7.2,40
+2023-01-15,81,Branded,Clothing,I Need My Bean! T-shirt,8,Hell's Kitchen,1,28,28,16.8,11.2,40
+2023-01-15,84,Flavours,Regular syrup,Chocolate syrup,8,Hell's Kitchen,4,0.8,3.2,1.92,1.28,40
+2023-01-15,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,8,Hell's Kitchen,1,3,3,1.8,1.2,40
+2023-01-15,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,8,Hell's Kitchen,7,3.75,26.25,15.75,10.5,40
+2023-01-15,78,Bakery,Scone,Scottish Cream Scone ,3,Astoria,2,4.5,9,5.4,3.6,40
+2023-01-15,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,8,Hell's Kitchen,3,2,6,3.6,2.4,40
+2023-01-15,43,Tea,Brewed herbal tea,Lemon Grass Lg,5,Lower Manhattan,4,3,12,7.2,4.8,40
+2023-01-15,3,Coffee beans,Espresso Beans,Espresso Roast,8,Hell's Kitchen,1,14.75,14.75,8.85,5.9,40
+2023-01-15,76,Bakery,Biscotti,Chocolate Chip Biscotti,5,Lower Manhattan,2,3.5,7,4.2,2.8,40
+2023-01-16,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,5,Lower Manhattan,6,3,18,10.8,7.2,40
+2023-01-16,29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,5,Lower Manhattan,9,2.5,22.5,13.5,9,40
+2023-01-16,79,Bakery,Scone,Jumbo Savory Scone,8,Hell's Kitchen,5,3.75,18.75,11.25,7.5,40
+2023-01-16,10,Coffee beans,Green beans,Guatemalan Sustainably Grown,3,Astoria,1,10,10,6,4,40
+2023-01-16,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,3,Astoria,4,2.55,10.2,6.12,4.08,40
+2023-01-16,48,Tea,Brewed Black tea,English Breakfast Rg,3,Astoria,4,2.5,10,6,4,40
+2023-01-16,58,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,3,Astoria,14,3.5,49,29.4,19.6,40
+2023-01-16,49,Tea,Brewed Black tea,English Breakfast Lg,5,Lower Manhattan,6,3,18,10.8,7.2,40
+2023-01-16,49,Tea,Brewed Black tea,English Breakfast Lg,3,Astoria,11,3,33,19.8,13.2,40
+2023-01-16,37,Coffee,Barista Espresso,Espresso shot,8,Hell's Kitchen,3,3,9,5.4,3.6,40
+2023-01-16,72,Bakery,Scone,Ginger Scone,5,Lower Manhattan,1,3.25,3.25,1.95,1.3,40
+2023-01-16,59,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,5,Lower Manhattan,5,4.5,22.5,13.5,9,40
+2023-01-16,78,Bakery,Scone,Scottish Cream Scone ,5,Lower Manhattan,1,4.5,4.5,2.7,1.8,40
+2023-01-16,75,Bakery,Pastry,Croissant,5,Lower Manhattan,1,3.5,3.5,2.1,1.4,40
+2023-01-16,26,Coffee,Organic brewed coffee,Brazilian Rg,5,Lower Manhattan,3,3,9,5.4,3.6,40
+2023-01-16,64,Flavours,Regular syrup,Hazelnut syrup,3,Astoria,2,0.8,1.6,0.96,0.64,40
+2023-01-16,11,Loose Tea,Herbal tea,Lemon Grass,5,Lower Manhattan,1,8.95,8.95,5.37,3.58,40
+2023-01-16,48,Tea,Brewed Black tea,English Breakfast Rg,8,Hell's Kitchen,1,2.5,2.5,1.5,1,40
+2023-01-17,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,3,Astoria,12,2.5,30,18,12,40
+2023-01-17,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,3,Astoria,6,2.5,15,9,6,40
+2023-01-17,50,Tea,Brewed Black tea,Earl Grey Rg,3,Astoria,16,2.5,40,24,16,40
+2023-01-17,38,Coffee,Barista Espresso,Latte,5,Lower Manhattan,3,3.75,11.25,6.75,4.5,40
+2023-01-17,83,Branded,Housewares,I Need My Bean! Latte cup,3,Astoria,2,14,28,16.8,11.2,40
+2023-01-17,71,Bakery,Pastry,Chocolate Croissant,3,Astoria,1,3.75,3.75,2.25,1.5,40
+2023-01-17,38,Coffee,Barista Espresso,Latte,3,Astoria,2,3.75,7.5,4.5,3,40
+2023-01-17,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,5,Lower Manhattan,6,2.45,14.7,8.82,5.88,40
+2023-01-18,49,Tea,Brewed Black tea,English Breakfast Lg,5,Lower Manhattan,2,3,6,3.6,2.4,40
+2023-01-18,37,Coffee,Barista Espresso,Espresso shot,8,Hell's Kitchen,11,3,33,19.8,13.2,40
+2023-01-18,87,Coffee,Barista Espresso,Ouro Brasileiro shot,8,Hell's Kitchen,10,2.85,29.1,17.46,11.64,40
+2023-01-18,72,Bakery,Scone,Ginger Scone,8,Hell's Kitchen,1,3.25,3.25,1.95,1.3,40
+2023-01-18,38,Coffee,Barista Espresso,Latte,3,Astoria,7,3.75,26.25,15.75,10.5,40
+2023-01-18,49,Tea,Brewed Black tea,English Breakfast Lg,3,Astoria,9,3,27,16.2,10.8,40
+2023-01-18,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,3,Astoria,6,3.75,22.5,13.5,9,40
+2023-01-18,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,8,Hell's Kitchen,1,2,2,1.2,0.8,40
+2023-01-18,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,3,Astoria,10,2,20,12,8,40
+2023-01-18,69,Bakery,Biscotti,Hazelnut Biscotti,3,Astoria,5,3.25,16.25,9.75,6.5,40
+2023-01-18,47,Tea,Brewed Green tea,Serenity Green Tea Lg,8,Hell's Kitchen,13,3,39,23.4,15.6,40
+2023-01-18,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,8,Hell's Kitchen,3,3.75,11.25,6.75,4.5,40
+2023-01-18,14,Loose Tea,Black tea,Earl Grey,8,Hell's Kitchen,2,8.95,17.9,10.74,7.16,40
+2023-01-18,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,5,Lower Manhattan,2,3.1,6.2,3.72,2.48,40
+2023-01-19,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,8,Hell's Kitchen,6,2.55,15.3,9.18,6.12,40
+2023-01-19,59,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,8,Hell's Kitchen,6,4.5,27,16.2,10.8,40
+2023-01-19,38,Coffee,Barista Espresso,Latte,8,Hell's Kitchen,5,3.75,18.75,11.25,7.5,40
+2023-01-19,44,Tea,Brewed herbal tea,Peppermint Rg,3,Astoria,9,2.5,22.5,13.5,9,40
+2023-01-19,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,3,Astoria,5,2.55,12.75,7.65,5.1,40
+2023-01-19,42,Tea,Brewed herbal tea,Lemon Grass Rg,3,Astoria,11,2.5,27.5,16.5,11,40
+2023-01-19,8,Coffee beans,Premium Beans,Civet Cat,8,Hell's Kitchen,1,45,45,27,18,40
+2023-01-19,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,5,Lower Manhattan,6,3.75,22.5,13.5,9,40
+2023-01-19,81,Branded,Clothing,I Need My Bean! T-shirt,3,Astoria,2,28,56,33.6,22.4,40
+2023-01-19,84,Flavours,Regular syrup,Chocolate syrup,5,Lower Manhattan,11,0.8,8.8,5.28,3.52,40
+2023-01-19,29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,8,Hell's Kitchen,3,2.5,7.5,4.5,3,40
+2023-01-19,41,Coffee,Barista Espresso,Cappuccino Lg,5,Lower Manhattan,8,4.25,34,20.4,13.6,40
+2023-01-19,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,5,Lower Manhattan,5,3,15,9,6,40
+2023-01-19,45,Tea,Brewed herbal tea,Peppermint Lg,3,Astoria,4,3,12,7.2,4.8,40
+2023-01-19,69,Bakery,Biscotti,Hazelnut Biscotti,5,Lower Manhattan,3,3.25,9.75,5.85,3.9,40
+2023-01-19,44,Tea,Brewed herbal tea,Peppermint Rg,8,Hell's Kitchen,8,2.5,20,12,8,40
+2023-01-19,50,Tea,Brewed Black tea,Earl Grey Rg,5,Lower Manhattan,3,2.5,7.5,4.5,3,40
+2023-01-20,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,5,Lower Manhattan,3,2.55,7.65,4.59,3.06,40
+2023-01-20,75,Bakery,Pastry,Croissant,5,Lower Manhattan,4,3.5,14,8.4,5.6,40
+2023-01-20,79,Bakery,Scone,Jumbo Savory Scone,3,Astoria,5,3.75,18.75,11.25,7.5,40
+2023-01-20,14,Loose Tea,Black tea,Earl Grey,3,Astoria,1,8.95,8.95,5.37,3.58,40
+2023-01-20,78,Bakery,Scone,Scottish Cream Scone ,3,Astoria,8,4.5,36,21.6,14.4,40
+2023-01-20,31,Coffee,Gourmet brewed coffee,Ethiopia Sm,5,Lower Manhattan,4,2.2,8.8,5.28,3.52,40
+2023-01-20,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,8,Hell's Kitchen,8,3,24,14.4,9.6,40
+2023-01-20,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,3,Astoria,7,2.5,17.5,10.5,7,40
+2023-01-20,26,Coffee,Organic brewed coffee,Brazilian Rg,8,Hell's Kitchen,13,3,39,23.4,15.6,40
+2023-01-20,65,Flavours,Sugar free syrup,Sugar Free Vanilla syrup,8,Hell's Kitchen,3,0.8,2.4,1.44,0.96,40
+2023-01-20,69,Bakery,Biscotti,Hazelnut Biscotti,3,Astoria,5,3.25,16.25,9.75,6.5,40
+2023-01-20,2,Coffee beans,House blend Beans,Our Old Time Diner Blend,5,Lower Manhattan,2,18,36,21.6,14.4,40
+2023-01-20,39,Coffee,Barista Espresso,Latte Rg,8,Hell's Kitchen,9,4.25,38.25,22.95,15.3,40
+2023-01-21,58,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,8,Hell's Kitchen,5,3.5,17.5,10.5,7,40
+2023-01-21,27,Coffee,Organic brewed coffee,Brazilian Lg,8,Hell's Kitchen,8,3.5,28,16.8,11.2,40
+2023-01-21,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,8,Hell's Kitchen,5,3.1,15.5,9.3,6.2,40
+2023-01-21,26,Coffee,Organic brewed coffee,Brazilian Rg,8,Hell's Kitchen,8,3,24,14.4,9.6,40
+2023-01-21,72,Bakery,Scone,Ginger Scone,8,Hell's Kitchen,5,3.25,16.25,9.75,6.5,40
+2023-01-21,31,Coffee,Gourmet brewed coffee,Ethiopia Sm,3,Astoria,5,2.2,11,6.6,4.4,40
+2023-01-21,29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,3,Astoria,3,2.5,7.5,4.5,3,40
+2023-01-21,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,8,Hell's Kitchen,5,3,15,9,6,40
+2023-01-21,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,3,Astoria,2,3.75,7.5,4.5,3,40
+2023-01-21,39,Coffee,Barista Espresso,Latte Rg,8,Hell's Kitchen,5,4.25,21.25,12.75,8.5,40
+2023-01-21,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,5,Lower Manhattan,2,3,6,3.6,2.4,40
+2023-01-21,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,8,Hell's Kitchen,6,2,12,7.2,4.8,40
+2023-01-21,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,3,Astoria,4,3,12,7.2,4.8,40
+2023-01-22,40,Coffee,Barista Espresso,Cappuccino,5,Lower Manhattan,6,3.75,22.5,13.5,9,40
+2023-01-22,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,3,Astoria,9,3,27,16.2,10.8,40
+2023-01-22,83,Branded,Housewares,I Need My Bean! Latte cup,5,Lower Manhattan,1,14,14,8.4,5.6,40
+2023-01-22,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,8,Hell's Kitchen,4,4.75,19,11.4,7.6,40
+2023-01-22,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,5,Lower Manhattan,1,3,3,1.8,1.2,40
+2023-01-22,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,5,Lower Manhattan,4,2,8,4.8,3.2,40
+2023-01-22,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,3,Astoria,7,4.75,33.25,19.95,13.3,40
+2023-01-22,79,Bakery,Scone,Jumbo Savory Scone,8,Hell's Kitchen,2,3.75,7.5,4.5,3,40
+2023-01-22,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,3,Astoria,11,2,22,13.2,8.8,40
+2023-01-22,73,Bakery,Pastry,Almond Croissant,3,Astoria,5,3.75,18.75,11.25,7.5,40
+2023-01-22,51,Tea,Brewed Black tea,Earl Grey Lg,3,Astoria,10,3,30,18,12,40
+2023-01-22,48,Tea,Brewed Black tea,English Breakfast Rg,8,Hell's Kitchen,6,2.5,15,9,6,40
+2023-01-22,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,3,Astoria,3,3,9,5.4,3.6,40
+2023-01-22,43,Tea,Brewed herbal tea,Lemon Grass Lg,5,Lower Manhattan,8,3,24,14.4,9.6,40
+2023-01-22,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,3,Astoria,3,2.5,7.5,4.5,3,40
+2023-01-22,74,Bakery,Biscotti,Ginger Biscotti,5,Lower Manhattan,1,3.5,3.5,2.1,1.4,40
+2023-01-22,46,Tea,Brewed Green tea,Serenity Green Tea Rg,3,Astoria,3,2.5,7.5,4.5,3,40
+2023-01-22,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,8,Hell's Kitchen,1,3,3,1.8,1.2,40
+2023-01-23,76,Bakery,Biscotti,Chocolate Chip Biscotti,8,Hell's Kitchen,3,3.5,10.5,6.3,4.2,40
+2023-01-23,37,Coffee,Barista Espresso,Espresso shot,5,Lower Manhattan,7,3,21,12.6,8.4,40
+2023-01-23,77,Bakery,Scone,Oatmeal Scone,8,Hell's Kitchen,4,3,12,7.2,4.8,40
+2023-01-23,79,Bakery,Scone,Jumbo Savory Scone,8,Hell's Kitchen,2,3.75,7.5,4.5,3,40
+2023-01-23,70,Bakery,Scone,Cranberry Scone,5,Lower Manhattan,2,3.25,6.5,3.9,2.6,40
+2023-01-23,39,Coffee,Barista Espresso,Latte Rg,5,Lower Manhattan,5,4.25,21.25,12.75,8.5,40
+2023-01-23,63,Flavours,Regular syrup,Carmel syrup,8,Hell's Kitchen,4,0.8,3.2,1.92,1.28,40
+2023-01-23,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,8,Hell's Kitchen,3,2.5,7.5,4.5,3,40
+2023-01-23,58,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,3,Astoria,8,3.5,28,16.8,11.2,40
+2023-01-23,42,Tea,Brewed herbal tea,Lemon Grass Rg,5,Lower Manhattan,2,2.5,5,3,2,40
+2023-01-23,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,8,Hell's Kitchen,1,4,4,2.4,1.6,40
+2023-01-24,42,Tea,Brewed herbal tea,Lemon Grass Rg,8,Hell's Kitchen,10,2.5,25,15,10,40
+2023-01-24,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,5,Lower Manhattan,3,2,6,3.6,2.4,40
+2023-01-24,70,Bakery,Scone,Cranberry Scone,8,Hell's Kitchen,3,3.25,9.75,5.85,3.9,40
+2023-01-24,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,8,Hell's Kitchen,3,2.5,7.5,4.5,3,40
+2023-01-24,72,Bakery,Scone,Ginger Scone,3,Astoria,3,3.25,9.75,5.85,3.9,40
+2023-01-24,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,5,Lower Manhattan,10,2.55,25.5,15.3,10.2,40
+2023-01-24,41,Coffee,Barista Espresso,Cappuccino Lg,3,Astoria,7,4.25,29.75,17.85,11.9,40
+2023-01-24,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,3,Astoria,8,3,24,14.4,9.6,40
+2023-01-24,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,3,Astoria,3,2.45,7.35,4.41,2.94,40
+2023-01-24,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,8,Hell's Kitchen,3,3.75,11.25,6.75,4.5,40
+2023-01-24,27,Coffee,Organic brewed coffee,Brazilian Lg,8,Hell's Kitchen,5,3.5,17.5,10.5,7,40
+2023-01-24,50,Tea,Brewed Black tea,Earl Grey Rg,3,Astoria,6,2.5,15,9,6,40
+2023-01-24,74,Bakery,Biscotti,Ginger Biscotti,5,Lower Manhattan,1,3.5,3.5,2.1,1.4,40
+2023-01-24,44,Tea,Brewed herbal tea,Peppermint Rg,3,Astoria,5,2.5,12.5,7.5,5,40
+2023-01-25,47,Tea,Brewed Green tea,Serenity Green Tea Lg,5,Lower Manhattan,9,3,27,16.2,10.8,40
+2023-01-25,63,Flavours,Regular syrup,Carmel syrup,5,Lower Manhattan,4,0.8,3.2,1.92,1.28,40
+2023-01-25,31,Coffee,Gourmet brewed coffee,Ethiopia Sm,8,Hell's Kitchen,11,2.2,24.2,14.52,9.68,40
+2023-01-25,40,Coffee,Barista Espresso,Cappuccino,3,Astoria,5,3.75,18.75,11.25,7.5,40
+2023-01-25,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,8,Hell's Kitchen,3,2.5,7.5,4.5,3,40
+2023-01-25,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,5,Lower Manhattan,11,2.5,27.5,16.5,11,40
+2023-01-25,29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,3,Astoria,8,2.5,20,12,8,40
+2023-01-25,2,Coffee beans,House blend Beans,Our Old Time Diner Blend,5,Lower Manhattan,2,18,36,21.6,14.4,40
+2023-01-25,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,8,Hell's Kitchen,3,2,6,3.6,2.4,40
+2023-01-25,77,Bakery,Scone,Oatmeal Scone,3,Astoria,3,3,9,5.4,3.6,40
+2023-01-25,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,3,Astoria,4,2.5,10,6,4,40
+2023-01-25,46,Tea,Brewed Green tea,Serenity Green Tea Rg,3,Astoria,6,2.5,15,9,6,40
+2023-01-25,43,Tea,Brewed herbal tea,Lemon Grass Lg,8,Hell's Kitchen,1,3,3,1.8,1.2,40
+2023-01-26,44,Tea,Brewed herbal tea,Peppermint Rg,5,Lower Manhattan,11,2.5,27.5,16.5,11,40
+2023-01-26,39,Coffee,Barista Espresso,Latte Rg,5,Lower Manhattan,5,4.25,21.25,12.75,8.5,40
+2023-01-26,29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,3,Astoria,10,2.5,25,15,10,40
+2023-01-26,46,Tea,Brewed Green tea,Serenity Green Tea Rg,8,Hell's Kitchen,8,2.5,20,12,8,40
+2023-01-26,58,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,5,Lower Manhattan,5,3.5,17.5,10.5,7,40
+2023-01-26,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,5,Lower Manhattan,5,3,15,9,6,40
+2023-01-26,43,Tea,Brewed herbal tea,Lemon Grass Lg,3,Astoria,10,3,30,18,12,40
+2023-01-26,48,Tea,Brewed Black tea,English Breakfast Rg,5,Lower Manhattan,3,2.5,7.5,4.5,3,40
+2023-01-26,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,3,Astoria,2,2.5,5,3,2,40
+2023-01-26,37,Coffee,Barista Espresso,Espresso shot,8,Hell's Kitchen,6,3,18,10.8,7.2,40
+2023-01-26,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,3,Astoria,2,2.45,4.9,2.94,1.96,40
+2023-01-26,29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,8,Hell's Kitchen,1,2.5,2.5,1.5,1,40
+2023-01-26,71,Bakery,Pastry,Chocolate Croissant,3,Astoria,1,3.75,3.75,2.25,1.5,40
+2023-01-27,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,5,Lower Manhattan,7,3.1,21.7,13.02,8.68,40
+2023-01-27,75,Bakery,Pastry,Croissant,5,Lower Manhattan,5,3.5,17.5,10.5,7,40
+2023-01-27,58,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,3,Astoria,7,3.5,24.5,14.7,9.8,40
+2023-01-27,50,Tea,Brewed Black tea,Earl Grey Rg,8,Hell's Kitchen,6,2.5,15,9,6,40
+2023-01-27,26,Coffee,Organic brewed coffee,Brazilian Rg,3,Astoria,3,3,9,5.4,3.6,40
+2023-01-27,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,5,Lower Manhattan,7,2.5,17.5,10.5,7,40
+2023-01-27,42,Tea,Brewed herbal tea,Lemon Grass Rg,8,Hell's Kitchen,3,2.5,7.5,4.5,3,40
+2023-01-27,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,3,Astoria,2,2.55,5.1,3.06,2.04,40
+2023-01-27,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,3,Astoria,2,3.1,6.2,3.72,2.48,40
+2023-01-27,43,Tea,Brewed herbal tea,Lemon Grass Lg,5,Lower Manhattan,10,3,30,18,12,40
+2023-01-27,48,Tea,Brewed Black tea,English Breakfast Rg,8,Hell's Kitchen,2,2.5,5,3,2,40
+2023-01-27,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,3,Astoria,1,3.75,3.75,2.25,1.5,40
+2023-01-28,31,Coffee,Gourmet brewed coffee,Ethiopia Sm,3,Astoria,10,2.2,22,13.2,8.8,40
+2023-01-28,77,Bakery,Scone,Oatmeal Scone,5,Lower Manhattan,2,3,6,3.6,2.4,40
+2023-01-28,72,Bakery,Scone,Ginger Scone,5,Lower Manhattan,6,2.65,15.9,9.54,6.36,40
+2023-01-28,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,8,Hell's Kitchen,6,3.1,18.6,11.16,7.44,40
+2023-01-28,40,Coffee,Barista Espresso,Cappuccino,8,Hell's Kitchen,5,3.75,18.75,11.25,7.5,40
+2023-01-28,41,Coffee,Barista Espresso,Cappuccino Lg,3,Astoria,3,4.25,12.75,7.65,5.1,40
+2023-01-28,70,Bakery,Scone,Cranberry Scone,3,Astoria,2,3.25,6.5,3.9,2.6,40
+2023-01-29,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,3,Astoria,6,2.45,14.7,8.82,5.88,40
+2023-01-29,42,Tea,Brewed herbal tea,Lemon Grass Rg,5,Lower Manhattan,5,2.5,12.5,7.5,5,40
+2023-01-29,47,Tea,Brewed Green tea,Serenity Green Tea Lg,8,Hell's Kitchen,11,3,33,19.8,13.2,40
+2023-01-29,37,Coffee,Barista Espresso,Espresso shot,8,Hell's Kitchen,15,3,45,27,18,40
+2023-01-29,58,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,3,Astoria,6,3.5,21,12.6,8.4,40
+2023-01-29,50,Tea,Brewed Black tea,Earl Grey Rg,8,Hell's Kitchen,2,2.5,5,3,2,40
+2023-01-29,25,Coffee,Organic brewed coffee,Brazilian Sm,8,Hell's Kitchen,4,2.2,8.8,5.28,3.52,40
+2023-01-29,48,Tea,Brewed Black tea,English Breakfast Rg,5,Lower Manhattan,3,2.5,7.5,4.5,3,40
+2023-01-29,50,Tea,Brewed Black tea,Earl Grey Rg,5,Lower Manhattan,4,2.5,10,6,4,40
+2023-01-29,44,Tea,Brewed herbal tea,Peppermint Rg,8,Hell's Kitchen,1,2.5,2.5,1.5,1,40
+2023-01-29,43,Tea,Brewed herbal tea,Lemon Grass Lg,8,Hell's Kitchen,2,3,6,3.6,2.4,40
+2023-01-29,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,8,Hell's Kitchen,2,3.1,6.2,3.72,2.48,40
+2023-01-30,26,Coffee,Organic brewed coffee,Brazilian Rg,5,Lower Manhattan,3,3,9,5.4,3.6,40
+2023-01-30,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,8,Hell's Kitchen,4,2.5,10,6,4,40
+2023-01-30,45,Tea,Brewed herbal tea,Peppermint Lg,3,Astoria,6,3,18,10.8,7.2,40
+2023-01-30,69,Bakery,Biscotti,Hazelnut Biscotti,3,Astoria,4,3.25,13,7.8,5.2,40
+2023-01-30,45,Tea,Brewed herbal tea,Peppermint Lg,5,Lower Manhattan,5,3,15,9,6,40
+2023-01-30,70,Bakery,Scone,Cranberry Scone,3,Astoria,2,3.25,6.5,3.9,2.6,40
+2023-01-30,64,Flavours,Regular syrup,Hazelnut syrup,3,Astoria,2,0.8,1.6,0.96,0.64,40
+2023-01-30,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,8,Hell's Kitchen,2,2.55,5.1,3.06,2.04,40
+2023-01-30,11,Loose Tea,Herbal tea,Lemon Grass,8,Hell's Kitchen,1,8.95,8.95,5.37,3.58,40
+2023-01-31,27,Coffee,Organic brewed coffee,Brazilian Lg,5,Lower Manhattan,7,3.5,24.5,14.7,9.8,40
+2023-01-31,71,Bakery,Pastry,Chocolate Croissant,5,Lower Manhattan,2,3.75,7.5,4.5,3,40
+2023-01-31,71,Bakery,Pastry,Chocolate Croissant,8,Hell's Kitchen,5,3.75,18.75,11.25,7.5,40
+2023-01-31,72,Bakery,Scone,Ginger Scone,8,Hell's Kitchen,3,3.05,9.15,5.49,3.66,40
+2023-01-31,40,Coffee,Barista Espresso,Cappuccino,8,Hell's Kitchen,4,3.75,15,9,6,40
+2023-01-31,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,5,Lower Manhattan,6,3.75,22.5,13.5,9,40
+2023-01-31,79,Bakery,Scone,Jumbo Savory Scone,5,Lower Manhattan,3,3.75,11.25,6.75,4.5,40
+2023-01-31,33,Coffee,Gourmet brewed coffee,Ethiopia Lg,5,Lower Manhattan,4,3.5,14,8.4,5.6,40
+2023-01-31,77,Bakery,Scone,Oatmeal Scone,3,Astoria,1,3,3,1.8,1.2,40
+2023-01-31,10,Coffee beans,Green beans,Guatemalan Sustainably Grown,3,Astoria,1,10,10,6,4,40
+2023-02-01,59,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,5,Lower Manhattan,4,4.5,18,10.8,7.2,40
+2023-02-01,74,Bakery,Biscotti,Ginger Biscotti,8,Hell's Kitchen,4,3.5,14,8.4,5.6,40
+2023-02-01,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,8,Hell's Kitchen,9,3,27,16.2,10.8,40
+2023-02-01,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,5,Lower Manhattan,7,2.5,17.5,10.5,7,40
+2023-02-01,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,3,Astoria,8,2.45,19.6,11.76,7.84,40
+2023-02-01,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,3,Astoria,6,2,12,7.2,4.8,40
+2023-02-01,58,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,8,Hell's Kitchen,8,3.5,28,16.8,11.2,40
+2023-02-01,29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,8,Hell's Kitchen,7,2.5,17.5,10.5,7,40
+2023-02-01,72,Bakery,Scone,Ginger Scone,3,Astoria,2,3.25,6.5,3.9,2.6,40
+2023-02-01,87,Coffee,Barista Espresso,Ouro Brasileiro shot,8,Hell's Kitchen,7,3,21,12.6,8.4,40
+2023-02-01,42,Tea,Brewed herbal tea,Lemon Grass Rg,5,Lower Manhattan,2,2.5,5,3,2,40
+2023-02-02,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,5,Lower Manhattan,5,3.75,18.75,11.25,7.5,40
+2023-02-02,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,5,Lower Manhattan,5,3,15,9,6,40
+2023-02-02,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,5,Lower Manhattan,6,4.75,28.5,17.1,11.4,40
+2023-02-02,69,Bakery,Biscotti,Hazelnut Biscotti,5,Lower Manhattan,4,3.25,13,7.8,5.2,40
+2023-02-02,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,5,Lower Manhattan,12,3,36,21.6,14.4,40
+2023-02-02,38,Coffee,Barista Espresso,Latte,5,Lower Manhattan,5,3.75,18.75,11.25,7.5,40
+2023-02-02,71,Bakery,Pastry,Chocolate Croissant,8,Hell's Kitchen,2,3.75,7.5,4.5,3,40
+2023-02-02,40,Coffee,Barista Espresso,Cappuccino,5,Lower Manhattan,2,3.75,7.5,4.5,3,40
+2023-02-02,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,3,Astoria,3,2.55,7.65,4.59,3.06,40
+2023-02-02,75,Bakery,Pastry,Croissant,3,Astoria,4,3.5,14,8.4,5.6,40
+2023-02-02,70,Bakery,Scone,Cranberry Scone,8,Hell's Kitchen,2,3.25,6.5,3.9,2.6,40
+2023-02-02,74,Bakery,Biscotti,Ginger Biscotti,3,Astoria,3,3.5,10.5,6.3,4.2,40
+2023-02-03,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,8,Hell's Kitchen,6,4.75,28.5,17.1,11.4,40
+2023-02-03,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,8,Hell's Kitchen,6,2.55,15.3,9.18,6.12,40
+2023-02-03,87,Coffee,Barista Espresso,Ouro Brasileiro shot,5,Lower Manhattan,7,3,21,12.6,8.4,40
+2023-02-03,37,Coffee,Barista Espresso,Espresso shot,3,Astoria,9,3,27,16.2,10.8,40
+2023-02-03,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,3,Astoria,5,4.75,23.75,14.25,9.5,40
+2023-02-03,39,Coffee,Barista Espresso,Latte Rg,5,Lower Manhattan,9,4.25,38.25,22.95,15.3,40
+2023-02-03,39,Coffee,Barista Espresso,Latte Rg,8,Hell's Kitchen,2,4.25,8.5,5.1,3.4,40
+2023-02-03,25,Coffee,Organic brewed coffee,Brazilian Sm,3,Astoria,9,2.2,19.8,11.88,7.92,40
+2023-02-03,76,Bakery,Biscotti,Chocolate Chip Biscotti,5,Lower Manhattan,2,3.5,7,4.2,2.8,40
+2023-02-03,29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,8,Hell's Kitchen,2,2.5,5,3,2,40
+2023-02-03,78,Bakery,Scone,Scottish Cream Scone ,3,Astoria,1,4.5,4.5,2.7,1.8,40
+2023-02-04,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,8,Hell's Kitchen,2,3,6,3.6,2.4,40
+2023-02-04,31,Coffee,Gourmet brewed coffee,Ethiopia Sm,8,Hell's Kitchen,12,2.2,26.4,15.84,10.56,40
+2023-02-04,44,Tea,Brewed herbal tea,Peppermint Rg,3,Astoria,1,2.5,2.5,1.5,1,40
+2023-02-04,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,8,Hell's Kitchen,5,2.55,12.75,7.65,5.1,40
+2023-02-04,27,Coffee,Organic brewed coffee,Brazilian Lg,3,Astoria,2,3.5,7,4.2,2.8,40
+2023-02-04,45,Tea,Brewed herbal tea,Peppermint Lg,3,Astoria,6,3,18,10.8,7.2,40
+2023-02-04,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,5,Lower Manhattan,2,3.75,7.5,4.5,3,40
+2023-02-05,74,Bakery,Biscotti,Ginger Biscotti,5,Lower Manhattan,3,3.5,10.5,6.3,4.2,40
+2023-02-05,77,Bakery,Scone,Oatmeal Scone,5,Lower Manhattan,1,3,3,1.8,1.2,40
+2023-02-05,41,Coffee,Barista Espresso,Cappuccino Lg,5,Lower Manhattan,6,4.25,25.5,15.3,10.2,40
+2023-02-05,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,8,Hell's Kitchen,6,3.1,18.6,11.16,7.44,40
+2023-02-05,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,3,Astoria,2,2,4,2.4,1.6,40
+2023-02-05,78,Bakery,Scone,Scottish Cream Scone ,3,Astoria,1,4.5,4.5,2.7,1.8,40
+2023-02-06,46,Tea,Brewed Green tea,Serenity Green Tea Rg,5,Lower Manhattan,6,2.5,15,9,6,40
+2023-02-06,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,5,Lower Manhattan,5,2.5,12.5,7.5,5,40
+2023-02-06,42,Tea,Brewed herbal tea,Lemon Grass Rg,8,Hell's Kitchen,14,2.5,35,21,14,40
+2023-02-06,48,Tea,Brewed Black tea,English Breakfast Rg,5,Lower Manhattan,10,2.5,25,15,10,40
+2023-02-06,50,Tea,Brewed Black tea,Earl Grey Rg,3,Astoria,5,2.5,12.5,7.5,5,40
+2023-02-06,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,8,Hell's Kitchen,4,2.5,10,6,4,40
+2023-02-06,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,5,Lower Manhattan,1,2.55,2.55,1.53,1.02,40
+2023-02-07,50,Tea,Brewed Black tea,Earl Grey Rg,3,Astoria,9,2.5,22.5,13.5,9,40
+2023-02-07,46,Tea,Brewed Green tea,Serenity Green Tea Rg,5,Lower Manhattan,6,2.5,15,9,6,40
+2023-02-07,12,Loose Tea,Herbal tea,Peppermint,5,Lower Manhattan,2,8.95,17.9,10.74,7.16,40
+2023-02-07,33,Coffee,Gourmet brewed coffee,Ethiopia Lg,5,Lower Manhattan,4,3.5,14,8.4,5.6,40
+2023-02-07,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,5,Lower Manhattan,1,3.1,3.1,1.86,1.24,40
+2023-02-07,71,Bakery,Pastry,Chocolate Croissant,8,Hell's Kitchen,4,3.75,15,9,6,40
+2023-02-07,43,Tea,Brewed herbal tea,Lemon Grass Lg,3,Astoria,6,3,18,10.8,7.2,40
+2023-02-07,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,3,Astoria,7,4.75,33.25,19.95,13.3,40
+2023-02-07,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,8,Hell's Kitchen,7,2,14,8.4,5.6,40
+2023-02-07,69,Bakery,Biscotti,Hazelnut Biscotti,5,Lower Manhattan,1,3.25,3.25,1.95,1.3,40
+2023-02-07,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,3,Astoria,4,2,8,4.8,3.2,40
+2023-02-07,27,Coffee,Organic brewed coffee,Brazilian Lg,5,Lower Manhattan,4,3.5,14,8.4,5.6,40
+2023-02-07,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,5,Lower Manhattan,2,2,4,2.4,1.6,40
+2023-02-07,27,Coffee,Organic brewed coffee,Brazilian Lg,8,Hell's Kitchen,4,3.5,14,8.4,5.6,40
+2023-02-07,51,Tea,Brewed Black tea,Earl Grey Lg,8,Hell's Kitchen,1,3,3,1.8,1.2,40
+2023-02-08,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,8,Hell's Kitchen,10,3.1,31,18.6,12.4,40
+2023-02-08,38,Coffee,Barista Espresso,Latte,5,Lower Manhattan,9,3.75,33.75,20.25,13.5,40
+2023-02-08,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,5,Lower Manhattan,5,4,20,12,8,40
+2023-02-08,70,Bakery,Scone,Cranberry Scone,8,Hell's Kitchen,2,3.25,6.5,3.9,2.6,40
+2023-02-08,44,Tea,Brewed herbal tea,Peppermint Rg,8,Hell's Kitchen,1,2.5,2.5,1.5,1,40
+2023-02-08,31,Coffee,Gourmet brewed coffee,Ethiopia Sm,5,Lower Manhattan,4,2.2,8.8,5.28,3.52,40
+2023-02-08,84,Flavours,Regular syrup,Chocolate syrup,8,Hell's Kitchen,5,0.8,4,2.4,1.6,40
+2023-02-08,47,Tea,Brewed Green tea,Serenity Green Tea Lg,5,Lower Manhattan,4,3,12,7.2,4.8,40
+2023-02-08,39,Coffee,Barista Espresso,Latte Rg,8,Hell's Kitchen,5,4.25,21.25,12.75,8.5,40
+2023-02-08,31,Coffee,Gourmet brewed coffee,Ethiopia Sm,3,Astoria,2,2.2,4.4,2.64,1.76,40
+2023-02-08,73,Bakery,Pastry,Almond Croissant,3,Astoria,2,3.75,7.5,4.5,3,40
+2023-02-09,76,Bakery,Biscotti,Chocolate Chip Biscotti,8,Hell's Kitchen,4,3.5,14,8.4,5.6,40
+2023-02-09,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,3,Astoria,4,3.1,12.4,7.44,4.96,40
+2023-02-09,27,Coffee,Organic brewed coffee,Brazilian Lg,8,Hell's Kitchen,4,3.5,14,8.4,5.6,40
+2023-02-09,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,3,Astoria,8,3.75,30,18,12,40
+2023-02-09,72,Bakery,Scone,Ginger Scone,8,Hell's Kitchen,3,3.25,9.75,5.85,3.9,40
+2023-02-09,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,5,Lower Manhattan,3,3.1,9.3,5.58,3.72,40
+2023-02-09,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,3,Astoria,4,2.5,10,6,4,40
+2023-02-09,20,Packaged Chocolate,Organic Chocolate,Sustainably Grown Organic,8,Hell's Kitchen,1,7.6,7.6,4.56,3.04,40
+2023-02-10,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,8,Hell's Kitchen,6,4,24,14.4,9.6,40
+2023-02-10,79,Bakery,Scone,Jumbo Savory Scone,5,Lower Manhattan,4,3.75,15,9,6,40
+2023-02-10,37,Coffee,Barista Espresso,Espresso shot,3,Astoria,6,3,18,10.8,7.2,40
+2023-02-10,48,Tea,Brewed Black tea,English Breakfast Rg,3,Astoria,9,2.5,22.5,13.5,9,40
+2023-02-10,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,5,Lower Manhattan,1,3.75,3.75,2.25,1.5,40
+2023-02-10,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,3,Astoria,4,2,8,4.8,3.2,40
+2023-02-10,9,Coffee beans,Organic Beans,Organic Decaf Blend,8,Hell's Kitchen,1,22.5,22.5,13.5,9,40
+2023-02-10,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,3,Astoria,2,3,6,3.6,2.4,40
+2023-02-10,37,Coffee,Barista Espresso,Espresso shot,8,Hell's Kitchen,2,3,6,3.6,2.4,40
+2023-02-10,72,Bakery,Scone,Ginger Scone,5,Lower Manhattan,1,3.25,3.25,1.95,1.3,40
+2023-02-11,45,Tea,Brewed herbal tea,Peppermint Lg,5,Lower Manhattan,5,3,15,9,6,40
+2023-02-11,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,5,Lower Manhattan,6,2.5,15,9,6,40
+2023-02-11,31,Coffee,Gourmet brewed coffee,Ethiopia Sm,8,Hell's Kitchen,8,2.2,17.6,10.56,7.04,40
+2023-02-11,46,Tea,Brewed Green tea,Serenity Green Tea Rg,8,Hell's Kitchen,3,2.5,7.5,4.5,3,40
+2023-02-11,41,Coffee,Barista Espresso,Cappuccino Lg,8,Hell's Kitchen,9,4.25,38.25,22.95,15.3,40
+2023-02-11,70,Bakery,Scone,Cranberry Scone,8,Hell's Kitchen,4,3.25,13,7.8,5.2,40
+2023-02-11,47,Tea,Brewed Green tea,Serenity Green Tea Lg,3,Astoria,7,3,21,12.6,8.4,40
+2023-02-11,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,5,Lower Manhattan,5,4,20,12,8,40
+2023-02-11,40,Coffee,Barista Espresso,Cappuccino,5,Lower Manhattan,2,3.75,7.5,4.5,3,40
+2023-02-11,83,Branded,Housewares,I Need My Bean! Latte cup,3,Astoria,3,14,42,25.2,16.8,40
+2023-02-11,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,8,Hell's Kitchen,6,3.75,22.5,13.5,9,40
+2023-02-11,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,3,Astoria,6,3.1,18.6,11.16,7.44,40
+2023-02-11,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,3,Astoria,3,2.45,7.35,4.41,2.94,40
+2023-02-11,75,Bakery,Pastry,Croissant,5,Lower Manhattan,2,3.5,7,4.2,2.8,40
+2023-02-11,63,Flavours,Regular syrup,Carmel syrup,5,Lower Manhattan,2,0.8,1.6,0.96,0.64,40
+2023-02-11,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,3,Astoria,1,2.5,2.5,1.5,1,40
+2023-02-11,78,Bakery,Scone,Scottish Cream Scone ,3,Astoria,1,4.5,4.5,2.7,1.8,40
+2023-02-11,63,Flavours,Regular syrup,Carmel syrup,3,Astoria,3,0.8,2.4,1.44,0.96,40
+2023-02-11,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,8,Hell's Kitchen,1,2,2,1.2,0.8,40
+2023-02-12,27,Coffee,Organic brewed coffee,Brazilian Lg,5,Lower Manhattan,6,3.5,21,12.6,8.4,40
+2023-02-12,73,Bakery,Pastry,Almond Croissant,5,Lower Manhattan,7,3.75,26.25,15.75,10.5,40
+2023-02-12,59,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,8,Hell's Kitchen,8,4.5,36,21.6,14.4,40
+2023-02-12,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,3,Astoria,11,3.75,41.25,24.75,16.5,40
+2023-02-12,27,Coffee,Organic brewed coffee,Brazilian Lg,3,Astoria,10,3.5,35,21,14,40
+2023-02-12,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,3,Astoria,4,2.55,10.2,6.12,4.08,40
+2023-02-12,5,Coffee beans,Gourmet Beans,Columbian Medium Roast,8,Hell's Kitchen,1,15,15,9,6,40
+2023-02-12,17,Loose Tea,Chai tea,Morning Sunrise Chai,3,Astoria,1,9.5,9.5,5.7,3.8,40
+2023-02-12,47,Tea,Brewed Green tea,Serenity Green Tea Lg,5,Lower Manhattan,1,3,3,1.8,1.2,40
+2023-02-12,65,Flavours,Sugar free syrup,Sugar Free Vanilla syrup,3,Astoria,2,0.8,1.6,0.96,0.64,40
+2023-02-13,43,Tea,Brewed herbal tea,Lemon Grass Lg,3,Astoria,4,3,12,7.2,4.8,40
+2023-02-13,71,Bakery,Pastry,Chocolate Croissant,5,Lower Manhattan,5,3.75,18.75,11.25,7.5,40
+2023-02-13,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,3,Astoria,8,2,16,9.6,6.4,40
+2023-02-13,27,Coffee,Organic brewed coffee,Brazilian Lg,3,Astoria,13,3.5,45.5,27.3,18.2,40
+2023-02-13,18,Loose Tea,Chai tea,Spicy Eye Opener Chai,8,Hell's Kitchen,1,10.95,10.95,6.57,4.38,40
+2023-02-13,75,Bakery,Pastry,Croissant,5,Lower Manhattan,7,3.5,24.5,14.7,9.8,40
+2023-02-13,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,8,Hell's Kitchen,11,2.5,27.5,16.5,11,40
+2023-02-13,49,Tea,Brewed Black tea,English Breakfast Lg,8,Hell's Kitchen,3,3,9,5.4,3.6,40
+2023-02-13,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,8,Hell's Kitchen,8,2.5,20,12,8,40
+2023-02-13,20,Packaged Chocolate,Organic Chocolate,Sustainably Grown Organic,5,Lower Manhattan,1,7.6,7.6,4.56,3.04,40
+2023-02-13,41,Coffee,Barista Espresso,Cappuccino Lg,8,Hell's Kitchen,3,4.25,12.75,7.65,5.1,40
+2023-02-14,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,5,Lower Manhattan,3,3.75,11.25,6.75,4.5,40
+2023-02-14,70,Bakery,Scone,Cranberry Scone,8,Hell's Kitchen,8,3.25,26,15.6,10.4,40
+2023-02-14,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,8,Hell's Kitchen,6,4.75,28.5,17.1,11.4,40
+2023-02-14,13,Loose Tea,Black tea,English Breakfast,8,Hell's Kitchen,1,8.95,8.95,5.37,3.58,40
+2023-02-14,41,Coffee,Barista Espresso,Cappuccino Lg,3,Astoria,5,4.25,21.25,12.75,8.5,40
+2023-02-14,40,Coffee,Barista Espresso,Cappuccino,5,Lower Manhattan,4,3.75,15,9,6,40
+2023-02-14,20,Packaged Chocolate,Organic Chocolate,Sustainably Grown Organic,3,Astoria,1,7.6,7.6,4.56,3.04,40
+2023-02-14,64,Flavours,Regular syrup,Hazelnut syrup,8,Hell's Kitchen,10,0.8,8,4.8,3.2,40
+2023-02-14,43,Tea,Brewed herbal tea,Lemon Grass Lg,3,Astoria,6,3,18,10.8,7.2,40
+2023-02-14,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,3,Astoria,5,2.5,12.5,7.5,5,40
+2023-02-14,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,3,Astoria,6,2.55,15.3,9.18,6.12,40
+2023-02-14,71,Bakery,Pastry,Chocolate Croissant,3,Astoria,2,3.75,7.5,4.5,3,40
+2023-02-14,59,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,5,Lower Manhattan,1,4.5,4.5,2.7,1.8,40
+2023-02-15,42,Tea,Brewed herbal tea,Lemon Grass Rg,3,Astoria,7,2.5,17.5,10.5,7,40
+2023-02-15,64,Flavours,Regular syrup,Hazelnut syrup,3,Astoria,9,0.8,7.2,4.32,2.88,40
+2023-02-15,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,3,Astoria,4,3,12,7.2,4.8,40
+2023-02-15,65,Flavours,Sugar free syrup,Sugar Free Vanilla syrup,3,Astoria,4,0.8,3.2,1.92,1.28,40
+2023-02-15,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,8,Hell's Kitchen,4,2.55,10.2,6.12,4.08,40
+2023-02-15,75,Bakery,Pastry,Croissant,8,Hell's Kitchen,3,3.5,10.5,6.3,4.2,40
+2023-02-15,46,Tea,Brewed Green tea,Serenity Green Tea Rg,8,Hell's Kitchen,10,2.5,25,15,10,40
+2023-02-15,72,Bakery,Scone,Ginger Scone,8,Hell's Kitchen,5,3.25,16.25,9.75,6.5,40
+2023-02-15,82,Branded,Housewares,I Need My Bean! Diner mug,5,Lower Manhattan,3,12,36,21.6,14.4,40
+2023-02-15,47,Tea,Brewed Green tea,Serenity Green Tea Lg,3,Astoria,6,3,18,10.8,7.2,40
+2023-02-15,74,Bakery,Biscotti,Ginger Biscotti,3,Astoria,3,3.5,10.5,6.3,4.2,40
+2023-02-16,5,Coffee beans,Gourmet Beans,Columbian Medium Roast,8,Hell's Kitchen,1,15,15,9,6,40
+2023-02-16,50,Tea,Brewed Black tea,Earl Grey Rg,8,Hell's Kitchen,11,2.5,27.5,16.5,11,40
+2023-02-16,75,Bakery,Pastry,Croissant,8,Hell's Kitchen,5,3.5,17.5,10.5,7,40
+2023-02-16,26,Coffee,Organic brewed coffee,Brazilian Rg,3,Astoria,5,3,15,9,6,40
+2023-02-16,42,Tea,Brewed herbal tea,Lemon Grass Rg,8,Hell's Kitchen,5,2.5,12.5,7.5,5,40
+2023-02-16,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,5,Lower Manhattan,3,2.55,7.65,4.59,3.06,40
+2023-02-16,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,3,Astoria,3,2.5,7.5,4.5,3,40
+2023-02-16,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,5,Lower Manhattan,6,4.75,28.5,17.1,11.4,40
+2023-02-16,3,Coffee beans,Espresso Beans,Espresso Roast,5,Lower Manhattan,1,14.75,14.75,8.85,5.9,40
+2023-02-16,45,Tea,Brewed herbal tea,Peppermint Lg,8,Hell's Kitchen,4,3,12,7.2,4.8,40
+2023-02-16,41,Coffee,Barista Espresso,Cappuccino Lg,8,Hell's Kitchen,2,4.25,8.5,5.1,3.4,40
+2023-02-16,73,Bakery,Pastry,Almond Croissant,8,Hell's Kitchen,1,3.75,3.75,2.25,1.5,40
+2023-02-16,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,8,Hell's Kitchen,1,2,2,1.2,0.8,40
+2023-02-17,50,Tea,Brewed Black tea,Earl Grey Rg,8,Hell's Kitchen,3,2.5,7.5,4.5,3,40
+2023-02-17,26,Coffee,Organic brewed coffee,Brazilian Rg,5,Lower Manhattan,7,3,21,12.6,8.4,40
+2023-02-17,46,Tea,Brewed Green tea,Serenity Green Tea Rg,3,Astoria,8,2.5,20,12,8,40
+2023-02-17,63,Flavours,Regular syrup,Carmel syrup,3,Astoria,3,0.8,2.4,1.44,0.96,40
+2023-02-17,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,3,Astoria,5,2.55,12.75,7.65,5.1,40
+2023-02-17,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,5,Lower Manhattan,7,4,28,16.8,11.2,40
+2023-02-17,70,Bakery,Scone,Cranberry Scone,3,Astoria,2,3.25,6.5,3.9,2.6,40
+2023-02-17,59,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,5,Lower Manhattan,6,4.5,27,16.2,10.8,40
+2023-02-17,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,5,Lower Manhattan,2,3.75,7.5,4.5,3,40
+2023-02-18,78,Bakery,Scone,Scottish Cream Scone ,8,Hell's Kitchen,1,4.5,4.5,2.7,1.8,40
+2023-02-18,51,Tea,Brewed Black tea,Earl Grey Lg,8,Hell's Kitchen,3,3,9,5.4,3.6,40
+2023-02-18,59,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,8,Hell's Kitchen,11,4.5,49.5,29.7,19.8,40
+2023-02-18,48,Tea,Brewed Black tea,English Breakfast Rg,5,Lower Manhattan,2,2.5,5,3,2,40
+2023-02-18,33,Coffee,Gourmet brewed coffee,Ethiopia Lg,8,Hell's Kitchen,6,3.5,21,12.6,8.4,40
+2023-02-18,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,8,Hell's Kitchen,5,2.5,12.5,7.5,5,40
+2023-02-18,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,5,Lower Manhattan,2,4.75,9.5,5.7,3.8,40
+2023-02-18,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,5,Lower Manhattan,5,2.5,12.5,7.5,5,40
+2023-02-18,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,8,Hell's Kitchen,5,3,15,9,6,40
+2023-02-18,13,Loose Tea,Black tea,English Breakfast,8,Hell's Kitchen,1,8.95,8.95,5.37,3.58,40
+2023-02-18,65,Flavours,Sugar free syrup,Sugar Free Vanilla syrup,8,Hell's Kitchen,1,0.8,0.8,0.48,0.32,40
+2023-02-18,31,Coffee,Gourmet brewed coffee,Ethiopia Sm,5,Lower Manhattan,1,2.2,2.2,1.32,0.88,40
+2023-02-18,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,8,Hell's Kitchen,4,3.1,12.4,7.44,4.96,40
+2023-02-19,38,Coffee,Barista Espresso,Latte,3,Astoria,3,3.75,11.25,6.75,4.5,40
+2023-02-19,51,Tea,Brewed Black tea,Earl Grey Lg,8,Hell's Kitchen,5,3,15,9,6,40
+2023-02-19,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,3,Astoria,7,2.55,17.85,10.71,7.14,40
+2023-02-19,87,Coffee,Barista Espresso,Ouro Brasileiro shot,5,Lower Manhattan,9,3,27,16.2,10.8,40
+2023-02-19,70,Bakery,Scone,Cranberry Scone,3,Astoria,4,3.25,13,7.8,5.2,40
+2023-02-19,59,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,8,Hell's Kitchen,6,4.5,27,16.2,10.8,40
+2023-02-19,84,Flavours,Regular syrup,Chocolate syrup,5,Lower Manhattan,8,0.8,6.4,3.84,2.56,40
+2023-02-19,47,Tea,Brewed Green tea,Serenity Green Tea Lg,5,Lower Manhattan,3,3,9,5.4,3.6,40
+2023-02-19,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,3,Astoria,2,3,6,3.6,2.4,40
+2023-02-19,50,Tea,Brewed Black tea,Earl Grey Rg,5,Lower Manhattan,1,2.5,2.5,1.5,1,40
+2023-02-20,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,5,Lower Manhattan,4,3.1,12.4,7.44,4.96,40
+2023-02-20,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,5,Lower Manhattan,6,2.5,15,9,6,40
+2023-02-20,29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,5,Lower Manhattan,1,2.5,2.5,1.5,1,40
+2023-02-20,64,Flavours,Regular syrup,Hazelnut syrup,5,Lower Manhattan,4,0.8,3.2,1.92,1.28,40
+2023-02-20,64,Flavours,Regular syrup,Hazelnut syrup,8,Hell's Kitchen,7,0.8,5.6,3.36,2.24,40
+2023-02-20,25,Coffee,Organic brewed coffee,Brazilian Sm,8,Hell's Kitchen,7,2.2,15.4,9.24,6.16,40
+2023-02-20,71,Bakery,Pastry,Chocolate Croissant,3,Astoria,2,3.75,7.5,4.5,3,40
+2023-02-20,33,Coffee,Gourmet brewed coffee,Ethiopia Lg,3,Astoria,7,3.5,24.5,14.7,9.8,40
+2023-02-20,45,Tea,Brewed herbal tea,Peppermint Lg,3,Astoria,8,3,24,14.4,9.6,40
+2023-02-20,48,Tea,Brewed Black tea,English Breakfast Rg,8,Hell's Kitchen,10,2.5,25,15,10,40
+2023-02-20,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,3,Astoria,2,3,6,3.6,2.4,40
+2023-02-20,65,Flavours,Sugar free syrup,Sugar Free Vanilla syrup,8,Hell's Kitchen,5,0.8,4,2.4,1.6,40
+2023-02-20,71,Bakery,Pastry,Chocolate Croissant,5,Lower Manhattan,1,3.75,3.75,2.25,1.5,40
+2023-02-20,43,Tea,Brewed herbal tea,Lemon Grass Lg,5,Lower Manhattan,2,3,6,3.6,2.4,40
+2023-02-20,79,Bakery,Scone,Jumbo Savory Scone,8,Hell's Kitchen,2,3.75,7.5,4.5,3,40
+2023-02-21,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,8,Hell's Kitchen,5,3.1,15.5,9.3,6.2,40
+2023-02-21,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,3,Astoria,3,2,6,3.6,2.4,40
+2023-02-21,46,Tea,Brewed Green tea,Serenity Green Tea Rg,8,Hell's Kitchen,9,2.5,22.5,13.5,9,40
+2023-02-21,43,Tea,Brewed herbal tea,Lemon Grass Lg,3,Astoria,2,3,6,3.6,2.4,40
+2023-02-21,27,Coffee,Organic brewed coffee,Brazilian Lg,3,Astoria,2,3.5,7,4.2,2.8,40
+2023-02-21,78,Bakery,Scone,Scottish Cream Scone ,5,Lower Manhattan,1,4.5,4.5,2.7,1.8,40
+2023-02-21,70,Bakery,Scone,Cranberry Scone,8,Hell's Kitchen,1,3.25,3.25,1.95,1.3,40
+2023-02-22,31,Coffee,Gourmet brewed coffee,Ethiopia Sm,5,Lower Manhattan,7,2.2,15.4,9.24,6.16,40
+2023-02-22,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,5,Lower Manhattan,6,2,12,7.2,4.8,40
+2023-02-22,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,5,Lower Manhattan,10,2.55,25.5,15.3,10.2,40
+2023-02-22,70,Bakery,Scone,Cranberry Scone,8,Hell's Kitchen,3,3.25,9.75,5.85,3.9,40
+2023-02-22,45,Tea,Brewed herbal tea,Peppermint Lg,8,Hell's Kitchen,7,3,21,12.6,8.4,40
+2023-02-22,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,5,Lower Manhattan,3,2.5,7.5,4.5,3,40
+2023-02-23,25,Coffee,Organic brewed coffee,Brazilian Sm,5,Lower Manhattan,1,2.2,2.2,1.32,0.88,40
+2023-02-23,49,Tea,Brewed Black tea,English Breakfast Lg,8,Hell's Kitchen,2,3,6,3.6,2.4,40
+2023-02-23,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,8,Hell's Kitchen,5,3.75,18.75,11.25,7.5,40
+2023-02-23,76,Bakery,Biscotti,Chocolate Chip Biscotti,5,Lower Manhattan,1,3.5,3.5,2.1,1.4,40
+2023-02-23,37,Coffee,Barista Espresso,Espresso shot,8,Hell's Kitchen,2,3,6,3.6,2.4,40
+2023-02-23,50,Tea,Brewed Black tea,Earl Grey Rg,5,Lower Manhattan,11,2.5,27.5,16.5,11,40
+2023-02-23,84,Flavours,Regular syrup,Chocolate syrup,5,Lower Manhattan,5,0.8,4,2.4,1.6,40
+2023-02-23,75,Bakery,Pastry,Croissant,8,Hell's Kitchen,3,3.5,10.5,6.3,4.2,40
+2023-02-23,41,Coffee,Barista Espresso,Cappuccino Lg,8,Hell's Kitchen,3,4.25,12.75,7.65,5.1,40
+2023-02-23,25,Coffee,Organic brewed coffee,Brazilian Sm,8,Hell's Kitchen,3,2.2,6.6,3.96,2.64,40
+2023-02-23,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,8,Hell's Kitchen,4,3.1,12.4,7.44,4.96,40
+2023-02-23,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,8,Hell's Kitchen,1,3.1,3.1,1.86,1.24,40
+2023-02-24,33,Coffee,Gourmet brewed coffee,Ethiopia Lg,3,Astoria,18,3.5,63,37.8,25.2,40
+2023-02-24,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,3,Astoria,4,3,12,7.2,4.8,40
+2023-02-24,70,Bakery,Scone,Cranberry Scone,5,Lower Manhattan,5,3.25,16.25,9.75,6.5,40
+2023-02-24,46,Tea,Brewed Green tea,Serenity Green Tea Rg,3,Astoria,1,2.5,2.5,1.5,1,40
+2023-02-24,25,Coffee,Organic brewed coffee,Brazilian Sm,8,Hell's Kitchen,9,2.2,19.8,11.88,7.92,40
+2023-02-24,29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,5,Lower Manhattan,7,2.5,17.5,10.5,7,40
+2023-02-24,76,Bakery,Biscotti,Chocolate Chip Biscotti,3,Astoria,2,3.5,7,4.2,2.8,40
+2023-02-24,27,Coffee,Organic brewed coffee,Brazilian Lg,8,Hell's Kitchen,3,3.5,10.5,6.3,4.2,40
+2023-02-24,10,Coffee beans,Green beans,Guatemalan Sustainably Grown,5,Lower Manhattan,1,10,10,6,4,40
+2023-02-24,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,3,Astoria,11,3,33,19.8,13.2,40
+2023-02-24,49,Tea,Brewed Black tea,English Breakfast Lg,3,Astoria,9,3,27,16.2,10.8,40
+2023-02-24,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,3,Astoria,4,4,16,9.6,6.4,40
+2023-02-25,69,Bakery,Biscotti,Hazelnut Biscotti,5,Lower Manhattan,4,3.25,13,7.8,5.2,40
+2023-02-25,46,Tea,Brewed Green tea,Serenity Green Tea Rg,8,Hell's Kitchen,7,2.5,17.5,10.5,7,40
+2023-02-25,29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,8,Hell's Kitchen,6,2.5,15,9,6,40
+2023-02-25,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,5,Lower Manhattan,7,2.5,17.5,10.5,7,40
+2023-02-25,37,Coffee,Barista Espresso,Espresso shot,8,Hell's Kitchen,4,3,12,7.2,4.8,40
+2023-02-25,63,Flavours,Regular syrup,Carmel syrup,8,Hell's Kitchen,1,0.8,0.8,0.48,0.32,40
+2023-02-25,77,Bakery,Scone,Oatmeal Scone,8,Hell's Kitchen,1,3,3,1.8,1.2,40
+2023-02-25,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,8,Hell's Kitchen,5,4,20,12,8,40
+2023-02-25,51,Tea,Brewed Black tea,Earl Grey Lg,5,Lower Manhattan,1,3,3,1.8,1.2,40
+2023-02-25,79,Bakery,Scone,Jumbo Savory Scone,3,Astoria,4,3.75,15,9,6,40
+2023-02-25,78,Bakery,Scone,Scottish Cream Scone ,8,Hell's Kitchen,2,4.5,9,5.4,3.6,40
+2023-02-25,42,Tea,Brewed herbal tea,Lemon Grass Rg,8,Hell's Kitchen,2,2.5,5,3,2,40
+2023-02-26,75,Bakery,Pastry,Croissant,5,Lower Manhattan,2,3.5,7,4.2,2.8,40
+2023-02-26,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,5,Lower Manhattan,5,2.5,12.5,7.5,5,40
+2023-02-26,43,Tea,Brewed herbal tea,Lemon Grass Lg,8,Hell's Kitchen,4,3,12,7.2,4.8,40
+2023-02-26,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,8,Hell's Kitchen,8,2.5,20,12,8,40
+2023-02-26,51,Tea,Brewed Black tea,Earl Grey Lg,5,Lower Manhattan,10,3,30,18,12,40
+2023-02-26,48,Tea,Brewed Black tea,English Breakfast Rg,5,Lower Manhattan,6,2.5,15,9,6,40
+2023-02-26,46,Tea,Brewed Green tea,Serenity Green Tea Rg,3,Astoria,3,2.5,7.5,4.5,3,40
+2023-02-26,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,5,Lower Manhattan,6,4.75,28.5,17.1,11.4,40
+2023-02-26,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,3,Astoria,6,3,18,10.8,7.2,40
+2023-02-26,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,3,Astoria,15,2,30,18,12,40
+2023-02-26,40,Coffee,Barista Espresso,Cappuccino,8,Hell's Kitchen,5,3.75,18.75,11.25,7.5,40
+2023-02-26,37,Coffee,Barista Espresso,Espresso shot,8,Hell's Kitchen,7,3,21,12.6,8.4,40
+2023-02-26,70,Bakery,Scone,Cranberry Scone,3,Astoria,3,3.25,9.75,5.85,3.9,40
+2023-02-26,44,Tea,Brewed herbal tea,Peppermint Rg,3,Astoria,9,2.5,22.5,13.5,9,40
+2023-02-26,2,Coffee beans,House blend Beans,Our Old Time Diner Blend,8,Hell's Kitchen,1,18,18,10.8,7.2,40
+2023-02-26,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,5,Lower Manhattan,2,4,8,4.8,3.2,40
+2023-02-27,48,Tea,Brewed Black tea,English Breakfast Rg,3,Astoria,12,2.5,30,18,12,40
+2023-02-27,44,Tea,Brewed herbal tea,Peppermint Rg,3,Astoria,11,2.5,27.5,16.5,11,40
+2023-02-27,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,5,Lower Manhattan,10,2.5,25,15,10,40
+2023-02-27,74,Bakery,Biscotti,Ginger Biscotti,3,Astoria,2,3.5,7,4.2,2.8,40
+2023-02-27,73,Bakery,Pastry,Almond Croissant,5,Lower Manhattan,7,3.75,26.25,15.75,10.5,40
+2023-02-27,25,Coffee,Organic brewed coffee,Brazilian Sm,3,Astoria,5,2.2,11,6.6,4.4,40
+2023-02-27,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,8,Hell's Kitchen,7,2.5,17.5,10.5,7,40
+2023-02-27,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,3,Astoria,4,2,8,4.8,3.2,40
+2023-02-27,45,Tea,Brewed herbal tea,Peppermint Lg,3,Astoria,6,3,18,10.8,7.2,40
+2023-02-28,87,Coffee,Barista Espresso,Ouro Brasileiro shot,5,Lower Manhattan,15,2.55,37.8,22.68,15.12,40
+2023-02-28,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,5,Lower Manhattan,7,3.75,26.25,15.75,10.5,40
+2023-02-28,38,Coffee,Barista Espresso,Latte,3,Astoria,8,3.75,30,18,12,40
+2023-02-28,33,Coffee,Gourmet brewed coffee,Ethiopia Lg,5,Lower Manhattan,7,3.5,24.5,14.7,9.8,40
+2023-02-28,42,Tea,Brewed herbal tea,Lemon Grass Rg,5,Lower Manhattan,2,2.5,5,3,2,40
+2023-02-28,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,8,Hell's Kitchen,3,3,9,5.4,3.6,40
+2023-02-28,43,Tea,Brewed herbal tea,Lemon Grass Lg,8,Hell's Kitchen,3,3,9,5.4,3.6,40
+2023-02-28,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,5,Lower Manhattan,5,2.5,12.5,7.5,5,40
+2023-02-28,49,Tea,Brewed Black tea,English Breakfast Lg,5,Lower Manhattan,4,3,12,7.2,4.8,40
+2023-02-28,76,Bakery,Biscotti,Chocolate Chip Biscotti,8,Hell's Kitchen,2,3.5,7,4.2,2.8,40
+2023-02-28,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,3,Astoria,2,3.1,6.2,3.72,2.48,40
+2023-03-01,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,3,Astoria,5,2.5,12.5,7.5,5,40
+2023-03-01,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,3,Astoria,5,2,10,6,4,40
+2023-03-01,72,Bakery,Scone,Ginger Scone,5,Lower Manhattan,1,3.25,3.25,1.95,1.3,40
+2023-03-02,33,Coffee,Gourmet brewed coffee,Ethiopia Lg,5,Lower Manhattan,10,3.5,35,21,14,40
+2023-03-02,43,Tea,Brewed herbal tea,Lemon Grass Lg,5,Lower Manhattan,4,3,12,7.2,4.8,40
+2023-03-02,25,Coffee,Organic brewed coffee,Brazilian Sm,8,Hell's Kitchen,8,2.2,17.6,10.56,7.04,40
+2023-03-02,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,8,Hell's Kitchen,10,4,40,24,16,40
+2023-03-02,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,8,Hell's Kitchen,10,2.5,25,15,10,40
+2023-03-02,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,3,Astoria,7,4,28,16.8,11.2,40
+2023-03-02,45,Tea,Brewed herbal tea,Peppermint Lg,5,Lower Manhattan,1,3,3,1.8,1.2,40
+2023-03-02,46,Tea,Brewed Green tea,Serenity Green Tea Rg,5,Lower Manhattan,1,2.5,2.5,1.5,1,40
+2023-03-03,78,Bakery,Scone,Scottish Cream Scone ,5,Lower Manhattan,2,4.5,9,5.4,3.6,40
+2023-03-03,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,5,Lower Manhattan,13,3.1,40.3,24.18,16.12,40
+2023-03-03,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,5,Lower Manhattan,10,2,20,12,8,40
+2023-03-03,45,Tea,Brewed herbal tea,Peppermint Lg,8,Hell's Kitchen,5,3,15,9,6,40
+2023-03-03,42,Tea,Brewed herbal tea,Lemon Grass Rg,3,Astoria,15,2.5,37.5,22.5,15,40
+2023-03-03,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,3,Astoria,9,2.45,22.05,13.23,8.82,40
+2023-03-03,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,8,Hell's Kitchen,7,3,21,12.6,8.4,40
+2023-03-04,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,5,Lower Manhattan,5,2.55,12.75,7.65,5.1,40
+2023-03-04,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,5,Lower Manhattan,12,3.75,45,27,18,40
+2023-03-04,33,Coffee,Gourmet brewed coffee,Ethiopia Lg,8,Hell's Kitchen,9,3.5,31.5,18.9,12.6,40
+2023-03-04,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,8,Hell's Kitchen,10,3.75,37.5,22.5,15,40
+2023-03-04,72,Bakery,Scone,Ginger Scone,5,Lower Manhattan,2,3.25,6.5,3.9,2.6,40
+2023-03-04,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,5,Lower Manhattan,3,3,9,5.4,3.6,40
+2023-03-04,25,Coffee,Organic brewed coffee,Brazilian Sm,3,Astoria,7,2.2,15.4,9.24,6.16,40
+2023-03-04,76,Bakery,Biscotti,Chocolate Chip Biscotti,8,Hell's Kitchen,2,3.5,7,4.2,2.8,40
+2023-03-04,74,Bakery,Biscotti,Ginger Biscotti,5,Lower Manhattan,3,3.5,10.5,6.3,4.2,40
+2023-03-05,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,5,Lower Manhattan,9,3.75,33.75,20.25,13.5,40
+2023-03-05,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,5,Lower Manhattan,4,3.1,12.4,7.44,4.96,40
+2023-03-05,29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,8,Hell's Kitchen,8,2.5,20,12,8,40
+2023-03-05,49,Tea,Brewed Black tea,English Breakfast Lg,8,Hell's Kitchen,9,3,27,16.2,10.8,40
+2023-03-05,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,8,Hell's Kitchen,10,2.5,25,15,10,40
+2023-03-05,43,Tea,Brewed herbal tea,Lemon Grass Lg,8,Hell's Kitchen,10,3,30,18,12,40
+2023-03-05,72,Bakery,Scone,Ginger Scone,8,Hell's Kitchen,2,3.25,6.5,3.9,2.6,40
+2023-03-05,74,Bakery,Biscotti,Ginger Biscotti,8,Hell's Kitchen,2,3.5,7,4.2,2.8,40
+2023-03-05,71,Bakery,Pastry,Chocolate Croissant,5,Lower Manhattan,2,3.75,7.5,4.5,3,40
+2023-03-05,46,Tea,Brewed Green tea,Serenity Green Tea Rg,5,Lower Manhattan,5,2.5,12.5,7.5,5,40
+2023-03-05,46,Tea,Brewed Green tea,Serenity Green Tea Rg,3,Astoria,8,2.5,20,12,8,40
+2023-03-05,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,3,Astoria,4,4,16,9.6,6.4,40
+2023-03-06,39,Coffee,Barista Espresso,Latte Rg,5,Lower Manhattan,10,4.25,42.5,25.5,17,40
+2023-03-06,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,8,Hell's Kitchen,12,3,36,21.6,14.4,40
+2023-03-06,37,Coffee,Barista Espresso,Espresso shot,5,Lower Manhattan,4,3,12,7.2,4.8,40
+2023-03-06,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,8,Hell's Kitchen,6,2,12,7.2,4.8,40
+2023-03-06,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,8,Hell's Kitchen,9,2,18,10.8,7.2,40
+2023-03-06,72,Bakery,Scone,Ginger Scone,3,Astoria,4,3.25,13,7.8,5.2,40
+2023-03-06,40,Coffee,Barista Espresso,Cappuccino,3,Astoria,6,3.75,22.5,13.5,9,40
+2023-03-06,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,8,Hell's Kitchen,2,3.75,7.5,4.5,3,40
+2023-03-06,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,5,Lower Manhattan,3,2.5,7.5,4.5,3,40
+2023-03-06,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,5,Lower Manhattan,3,3.75,11.25,6.75,4.5,40
+2023-03-06,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,3,Astoria,2,3.1,6.2,3.72,2.48,40
+2023-03-06,78,Bakery,Scone,Scottish Cream Scone ,3,Astoria,1,4.5,4.5,2.7,1.8,40
+2023-03-07,45,Tea,Brewed herbal tea,Peppermint Lg,5,Lower Manhattan,8,3,24,14.4,9.6,40
+2023-03-07,71,Bakery,Pastry,Chocolate Croissant,5,Lower Manhattan,3,3.75,11.25,6.75,4.5,40
+2023-03-07,70,Bakery,Scone,Cranberry Scone,5,Lower Manhattan,4,3.25,13,7.8,5.2,40
+2023-03-07,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,5,Lower Manhattan,3,2.45,7.35,4.41,2.94,40
+2023-03-07,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,3,Astoria,6,3.1,18.6,11.16,7.44,40
+2023-03-07,70,Bakery,Scone,Cranberry Scone,3,Astoria,3,3.25,9.75,5.85,3.9,40
+2023-03-07,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,8,Hell's Kitchen,4,3.1,12.4,7.44,4.96,40
+2023-03-07,42,Tea,Brewed herbal tea,Lemon Grass Rg,3,Astoria,6,2.5,15,9,6,40
+2023-03-07,64,Flavours,Regular syrup,Hazelnut syrup,8,Hell's Kitchen,1,0.8,0.8,0.48,0.32,40
+2023-03-07,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,8,Hell's Kitchen,2,3.75,7.5,4.5,3,40
+2023-03-08,71,Bakery,Pastry,Chocolate Croissant,5,Lower Manhattan,7,3.75,26.25,15.75,10.5,40
+2023-03-08,6,Coffee beans,Gourmet Beans,Ethiopia,8,Hell's Kitchen,1,21,21,12.6,8.4,40
+2023-03-08,74,Bakery,Biscotti,Ginger Biscotti,8,Hell's Kitchen,7,3.5,24.5,14.7,9.8,40
+2023-03-08,25,Coffee,Organic brewed coffee,Brazilian Sm,3,Astoria,5,2.2,11,6.6,4.4,40
+2023-03-08,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,5,Lower Manhattan,4,2,8,4.8,3.2,40
+2023-03-08,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,3,Astoria,4,3.1,12.4,7.44,4.96,40
+2023-03-08,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,5,Lower Manhattan,4,2.55,10.2,6.12,4.08,40
+2023-03-08,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,8,Hell's Kitchen,2,2.55,5.1,3.06,2.04,40
+2023-03-08,31,Coffee,Gourmet brewed coffee,Ethiopia Sm,3,Astoria,3,2.2,6.6,3.96,2.64,40
+2023-03-08,17,Loose Tea,Chai tea,Morning Sunrise Chai,3,Astoria,1,9.5,9.5,5.7,3.8,40
+2023-03-08,83,Branded,Housewares,I Need My Bean! Latte cup,3,Astoria,1,14,14,8.4,5.6,40
+2023-03-09,59,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,3,Astoria,10,4.5,45,27,18,40
+2023-03-09,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,3,Astoria,7,3.1,21.7,13.02,8.68,40
+2023-03-09,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,5,Lower Manhattan,9,2.5,22.5,13.5,9,40
+2023-03-09,74,Bakery,Biscotti,Ginger Biscotti,3,Astoria,1,3.5,3.5,2.1,1.4,40
+2023-03-09,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,5,Lower Manhattan,7,3,21,12.6,8.4,40
+2023-03-09,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,8,Hell's Kitchen,10,3.75,37.5,22.5,15,40
+2023-03-09,4,Coffee beans,Espresso Beans,Primo Espresso Roast,5,Lower Manhattan,1,20.45,20.45,12.27,8.18,40
+2023-03-09,63,Flavours,Regular syrup,Carmel syrup,5,Lower Manhattan,2,0.8,1.6,0.96,0.64,40
+2023-03-09,10,Coffee beans,Green beans,Guatemalan Sustainably Grown,5,Lower Manhattan,1,10,10,6,4,40
+2023-03-09,53,Tea,Brewed Chai tea,Traditional Blend Chai Lg,3,Astoria,2,3,6,3.6,2.4,40
+2023-03-10,44,Tea,Brewed herbal tea,Peppermint Rg,5,Lower Manhattan,7,2.5,17.5,10.5,7,40
+2023-03-10,40,Coffee,Barista Espresso,Cappuccino,8,Hell's Kitchen,3,3.75,11.25,6.75,4.5,40
+2023-03-10,77,Bakery,Scone,Oatmeal Scone,5,Lower Manhattan,3,3,9,5.4,3.6,40
+2023-03-10,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,3,Astoria,9,3.1,27.9,16.74,11.16,40
+2023-03-10,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,3,Astoria,10,4,40,24,16,40
+2023-03-10,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,3,Astoria,7,3,21,12.6,8.4,40
+2023-03-10,38,Coffee,Barista Espresso,Latte,8,Hell's Kitchen,1,3.75,3.75,2.25,1.5,40
+2023-03-10,65,Flavours,Sugar free syrup,Sugar Free Vanilla syrup,8,Hell's Kitchen,6,0.8,4.8,2.88,1.92,40
+2023-03-11,47,Tea,Brewed Green tea,Serenity Green Tea Lg,5,Lower Manhattan,6,3,18,10.8,7.2,40
+2023-03-11,63,Flavours,Regular syrup,Carmel syrup,5,Lower Manhattan,8,0.8,6.4,3.84,2.56,40
+2023-03-11,42,Tea,Brewed herbal tea,Lemon Grass Rg,5,Lower Manhattan,3,2.5,7.5,4.5,3,40
+2023-03-11,10,Coffee beans,Green beans,Guatemalan Sustainably Grown,5,Lower Manhattan,1,10,10,6,4,40
+2023-03-11,87,Coffee,Barista Espresso,Ouro Brasileiro shot,8,Hell's Kitchen,3,3,9,5.4,3.6,40
+2023-03-11,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,3,Astoria,10,3.75,37.5,22.5,15,40
+2023-03-11,45,Tea,Brewed herbal tea,Peppermint Lg,8,Hell's Kitchen,7,3,21,12.6,8.4,40
+2023-03-11,38,Coffee,Barista Espresso,Latte,3,Astoria,2,3.75,7.5,4.5,3,40
+2023-03-11,49,Tea,Brewed Black tea,English Breakfast Lg,5,Lower Manhattan,8,3,24,14.4,9.6,40
+2023-03-11,70,Bakery,Scone,Cranberry Scone,8,Hell's Kitchen,4,3.25,13,7.8,5.2,40
+2023-03-11,14,Loose Tea,Black tea,Earl Grey,5,Lower Manhattan,1,8.95,8.95,5.37,3.58,40
+2023-03-11,43,Tea,Brewed herbal tea,Lemon Grass Lg,3,Astoria,6,3,18,10.8,7.2,40
+2023-03-11,49,Tea,Brewed Black tea,English Breakfast Lg,8,Hell's Kitchen,5,3,15,9,6,40
+2023-03-11,69,Bakery,Biscotti,Hazelnut Biscotti,3,Astoria,5,3.25,16.25,9.75,6.5,40
+2023-03-11,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,8,Hell's Kitchen,6,3.75,22.5,13.5,9,40
+2023-03-11,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,3,Astoria,2,2.55,5.1,3.06,2.04,40
+2023-03-11,82,Branded,Housewares,I Need My Bean! Diner mug,3,Astoria,1,12,12,7.2,4.8,40
+2023-03-11,75,Bakery,Pastry,Croissant,5,Lower Manhattan,1,3.5,3.5,2.1,1.4,40
+2023-03-12,79,Bakery,Scone,Jumbo Savory Scone,5,Lower Manhattan,5,3.75,18.75,11.25,7.5,40
+2023-03-12,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,5,Lower Manhattan,5,3.75,18.75,11.25,7.5,40
+2023-03-12,25,Coffee,Organic brewed coffee,Brazilian Sm,8,Hell's Kitchen,12,2.2,26.4,15.84,10.56,40
+2023-03-12,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,5,Lower Manhattan,6,2.55,15.3,9.18,6.12,40
+2023-03-12,6,Coffee beans,Gourmet Beans,Ethiopia,8,Hell's Kitchen,1,21,21,12.6,8.4,40
+2023-03-12,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,3,Astoria,3,2.5,7.5,4.5,3,40
+2023-03-12,59,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,3,Astoria,4,4.5,18,10.8,7.2,40
+2023-03-12,74,Bakery,Biscotti,Ginger Biscotti,3,Astoria,1,3.5,3.5,2.1,1.4,40
+2023-03-13,29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,5,Lower Manhattan,4,2.5,10,6,4,40
+2023-03-13,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,3,Astoria,3,2.45,7.35,4.41,2.94,40
+2023-03-13,40,Coffee,Barista Espresso,Cappuccino,8,Hell's Kitchen,10,3.75,37.5,22.5,15,40
+2023-03-13,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,8,Hell's Kitchen,9,3,27,16.2,10.8,40
+2023-03-13,29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,3,Astoria,4,2.5,10,6,4,40
+2023-03-13,69,Bakery,Biscotti,Hazelnut Biscotti,3,Astoria,6,3.25,19.5,11.7,7.8,40
+2023-03-13,29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,8,Hell's Kitchen,9,2.5,22.5,13.5,9,40
+2023-03-13,39,Coffee,Barista Espresso,Latte Rg,5,Lower Manhattan,14,4.25,59.5,35.7,23.8,40
+2023-03-13,65,Flavours,Sugar free syrup,Sugar Free Vanilla syrup,5,Lower Manhattan,7,0.8,5.6,3.36,2.24,40
+2023-03-13,84,Flavours,Regular syrup,Chocolate syrup,3,Astoria,8,0.8,6.4,3.84,2.56,40
+2023-03-13,8,Coffee beans,Premium Beans,Civet Cat,8,Hell's Kitchen,1,45,45,27,18,40
+2023-03-14,48,Tea,Brewed Black tea,English Breakfast Rg,5,Lower Manhattan,3,2.5,7.5,4.5,3,40
+2023-03-14,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,5,Lower Manhattan,8,2.45,19.6,11.76,7.84,40
+2023-03-14,26,Coffee,Organic brewed coffee,Brazilian Rg,3,Astoria,10,3,30,18,12,40
+2023-03-14,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,3,Astoria,6,3,18,10.8,7.2,40
+2023-03-14,26,Coffee,Organic brewed coffee,Brazilian Rg,8,Hell's Kitchen,8,3,24,14.4,9.6,40
+2023-03-14,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,8,Hell's Kitchen,11,3.75,41.25,24.75,16.5,40
+2023-03-14,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,3,Astoria,7,2.5,17.5,10.5,7,40
+2023-03-14,82,Branded,Housewares,I Need My Bean! Diner mug,5,Lower Manhattan,3,12,36,21.6,14.4,40
+2023-03-14,38,Coffee,Barista Espresso,Latte,5,Lower Manhattan,6,3.75,22.5,13.5,9,40
+2023-03-14,73,Bakery,Pastry,Almond Croissant,3,Astoria,1,3.75,3.75,2.25,1.5,40
+2023-03-14,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,8,Hell's Kitchen,3,2.55,7.65,4.59,3.06,40
+2023-03-14,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,3,Astoria,3,2.45,7.35,4.41,2.94,40
+2023-03-14,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,5,Lower Manhattan,3,2,6,3.6,2.4,40
+2023-03-14,39,Coffee,Barista Espresso,Latte Rg,3,Astoria,1,4.25,4.25,2.55,1.7,40
+2023-03-15,27,Coffee,Organic brewed coffee,Brazilian Lg,5,Lower Manhattan,10,3.5,35,21,14,40
+2023-03-15,74,Bakery,Biscotti,Ginger Biscotti,8,Hell's Kitchen,5,3.5,17.5,10.5,7,40
+2023-03-15,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,8,Hell's Kitchen,11,3.75,41.25,24.75,16.5,40
+2023-03-15,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,3,Astoria,14,3.75,52.5,31.5,21,40
+2023-03-15,75,Bakery,Pastry,Croissant,5,Lower Manhattan,3,3.5,10.5,6.3,4.2,40
+2023-03-15,78,Bakery,Scone,Scottish Cream Scone ,8,Hell's Kitchen,3,4.5,13.5,8.1,5.4,40
+2023-03-15,45,Tea,Brewed herbal tea,Peppermint Lg,3,Astoria,7,3,21,12.6,8.4,40
+2023-03-15,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,8,Hell's Kitchen,5,2.5,12.5,7.5,5,40
+2023-03-15,72,Bakery,Scone,Ginger Scone,3,Astoria,4,3.25,13,7.8,5.2,40
+2023-03-15,31,Coffee,Gourmet brewed coffee,Ethiopia Sm,3,Astoria,3,2.2,6.6,3.96,2.64,40
+2023-03-16,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,5,Lower Manhattan,5,3.75,18.75,11.25,7.5,40
+2023-03-16,76,Bakery,Biscotti,Chocolate Chip Biscotti,8,Hell's Kitchen,2,3.5,7,4.2,2.8,40
+2023-03-16,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,8,Hell's Kitchen,14,3,42,25.2,16.8,40
+2023-03-16,44,Tea,Brewed herbal tea,Peppermint Rg,5,Lower Manhattan,12,2.5,30,18,12,40
+2023-03-16,79,Bakery,Scone,Jumbo Savory Scone,5,Lower Manhattan,5,3.75,18.75,11.25,7.5,40
+2023-03-16,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,5,Lower Manhattan,18,4,72,43.2,28.8,40
+2023-03-16,63,Flavours,Regular syrup,Carmel syrup,3,Astoria,3,0.8,2.4,1.44,0.96,40
+2023-03-16,2,Coffee beans,House blend Beans,Our Old Time Diner Blend,3,Astoria,1,18,18,10.8,7.2,40
+2023-03-17,71,Bakery,Pastry,Chocolate Croissant,3,Astoria,3,3.75,11.25,6.75,4.5,40
+2023-03-17,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,3,Astoria,6,2,12,7.2,4.8,40
+2023-03-17,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,3,Astoria,10,2.55,25.5,15.3,10.2,40
+2023-03-17,63,Flavours,Regular syrup,Carmel syrup,8,Hell's Kitchen,7,0.8,5.6,3.36,2.24,40
+2023-03-17,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,3,Astoria,6,4,24,14.4,9.6,40
+2023-03-17,76,Bakery,Biscotti,Chocolate Chip Biscotti,3,Astoria,7,3.5,24.5,14.7,9.8,40
+2023-03-17,3,Coffee beans,Espresso Beans,Espresso Roast,3,Astoria,2,14.75,29.5,17.7,11.8,40
+2023-03-17,27,Coffee,Organic brewed coffee,Brazilian Lg,3,Astoria,5,3.5,17.5,10.5,7,40
+2023-03-17,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,3,Astoria,6,3.75,22.5,13.5,9,40
+2023-03-17,43,Tea,Brewed herbal tea,Lemon Grass Lg,3,Astoria,3,3,9,5.4,3.6,40
+2023-03-18,70,Bakery,Scone,Cranberry Scone,5,Lower Manhattan,3,3.25,9.75,5.85,3.9,40
+2023-03-18,37,Coffee,Barista Espresso,Espresso shot,5,Lower Manhattan,5,3,15,9,6,40
+2023-03-18,14,Loose Tea,Black tea,Earl Grey,5,Lower Manhattan,1,8.95,8.95,5.37,3.58,40
+2023-03-18,84,Flavours,Regular syrup,Chocolate syrup,8,Hell's Kitchen,10,0.8,8,4.8,3.2,40
+2023-03-18,21,Packaged Chocolate,Drinking Chocolate,Chili Mayan,5,Lower Manhattan,1,13.33,13.33,8,5.33,40
+2023-03-18,31,Coffee,Gourmet brewed coffee,Ethiopia Sm,5,Lower Manhattan,7,2.2,15.4,9.24,6.16,40
+2023-03-18,48,Tea,Brewed Black tea,English Breakfast Rg,8,Hell's Kitchen,4,2.5,10,6,4,40
+2023-03-18,77,Bakery,Scone,Oatmeal Scone,8,Hell's Kitchen,2,3,6,3.6,2.4,40
+2023-03-18,45,Tea,Brewed herbal tea,Peppermint Lg,3,Astoria,4,3,12,7.2,4.8,40
+2023-03-18,73,Bakery,Pastry,Almond Croissant,3,Astoria,4,3.75,15,9,6,40
+2023-03-18,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,3,Astoria,6,3,18,10.8,7.2,40
+2023-03-19,26,Coffee,Organic brewed coffee,Brazilian Rg,5,Lower Manhattan,4,3,12,7.2,4.8,40
+2023-03-19,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,8,Hell's Kitchen,12,2.55,30.6,18.36,12.24,40
+2023-03-19,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,8,Hell's Kitchen,8,2.5,20,12,8,40
+2023-03-19,25,Coffee,Organic brewed coffee,Brazilian Sm,5,Lower Manhattan,4,2.2,8.8,5.28,3.52,40
+2023-03-19,42,Tea,Brewed herbal tea,Lemon Grass Rg,3,Astoria,10,2.5,25,15,10,40
+2023-03-19,29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,3,Astoria,14,2.5,35,21,14,40
+2023-03-19,24,Coffee,Drip coffee,Our Old Time Diner Blend Lg,3,Astoria,6,3,18,10.8,7.2,40
+2023-03-19,43,Tea,Brewed herbal tea,Lemon Grass Lg,3,Astoria,7,3,21,12.6,8.4,40
+2023-03-19,49,Tea,Brewed Black tea,English Breakfast Lg,5,Lower Manhattan,3,3,9,5.4,3.6,40
+2023-03-19,78,Bakery,Scone,Scottish Cream Scone ,3,Astoria,2,4.5,9,5.4,3.6,40
+2023-03-19,76,Bakery,Biscotti,Chocolate Chip Biscotti,3,Astoria,6,3.5,21,12.6,8.4,40
+2023-03-19,33,Coffee,Gourmet brewed coffee,Ethiopia Lg,3,Astoria,5,3.5,17.5,10.5,7,40
+2023-03-19,63,Flavours,Regular syrup,Carmel syrup,5,Lower Manhattan,9,0.8,7.2,4.32,2.88,40
+2023-03-19,20,Packaged Chocolate,Organic Chocolate,Sustainably Grown Organic,3,Astoria,1,7.6,7.6,4.56,3.04,40
+2023-03-19,39,Coffee,Barista Espresso,Latte Rg,5,Lower Manhattan,3,4.25,12.75,7.65,5.1,40
+2023-03-20,65,Flavours,Sugar free syrup,Sugar Free Vanilla syrup,5,Lower Manhattan,9,0.8,7.2,4.32,2.88,40
+2023-03-20,12,Loose Tea,Herbal tea,Peppermint,3,Astoria,4,8.95,35.8,21.48,14.32,40
+2023-03-20,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,3,Astoria,2,2,4,2.4,1.6,40
+2023-03-20,20,Packaged Chocolate,Organic Chocolate,Sustainably Grown Organic,3,Astoria,1,7.6,7.6,4.56,3.04,40
+2023-03-20,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,8,Hell's Kitchen,8,2,16,9.6,6.4,40
+2023-03-20,38,Coffee,Barista Espresso,Latte,8,Hell's Kitchen,5,3.75,18.75,11.25,7.5,40
+2023-03-20,46,Tea,Brewed Green tea,Serenity Green Tea Rg,8,Hell's Kitchen,5,2.5,12.5,7.5,5,40
+2023-03-20,84,Flavours,Regular syrup,Chocolate syrup,8,Hell's Kitchen,20,0.8,16,9.6,6.4,40
+2023-03-20,49,Tea,Brewed Black tea,English Breakfast Lg,8,Hell's Kitchen,7,3,21,12.6,8.4,40
+2023-03-20,27,Coffee,Organic brewed coffee,Brazilian Lg,5,Lower Manhattan,2,3.5,7,4.2,2.8,40
+2023-03-20,20,Packaged Chocolate,Organic Chocolate,Sustainably Grown Organic,8,Hell's Kitchen,1,7.6,7.6,4.56,3.04,40
+2023-03-20,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,3,Astoria,2,3,6,3.6,2.4,40
+2023-03-21,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,5,Lower Manhattan,3,3,9,5.4,3.6,40
+2023-03-21,25,Coffee,Organic brewed coffee,Brazilian Sm,3,Astoria,4,2.2,8.8,5.28,3.52,40
+2023-03-21,37,Coffee,Barista Espresso,Espresso shot,5,Lower Manhattan,6,3,18,10.8,7.2,40
+2023-03-21,84,Flavours,Regular syrup,Chocolate syrup,8,Hell's Kitchen,9,0.8,7.2,4.32,2.88,40
+2023-03-21,75,Bakery,Pastry,Croissant,5,Lower Manhattan,3,3.5,10.5,6.3,4.2,40
+2023-03-21,29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,3,Astoria,3,2.5,7.5,4.5,3,40
+2023-03-21,27,Coffee,Organic brewed coffee,Brazilian Lg,3,Astoria,3,3.5,10.5,6.3,4.2,40
+2023-03-21,48,Tea,Brewed Black tea,English Breakfast Rg,5,Lower Manhattan,8,2.5,20,12,8,40
+2023-03-21,47,Tea,Brewed Green tea,Serenity Green Tea Lg,5,Lower Manhattan,10,3,30,18,12,40
+2023-03-21,49,Tea,Brewed Black tea,English Breakfast Lg,5,Lower Manhattan,3,3,9,5.4,3.6,40
+2023-03-21,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,8,Hell's Kitchen,4,2.5,10,6,4,40
+2023-03-22,18,Loose Tea,Chai tea,Spicy Eye Opener Chai,5,Lower Manhattan,1,10.95,10.95,6.57,4.38,40
+2023-03-22,29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,3,Astoria,14,2.5,35,21,14,40
+2023-03-22,47,Tea,Brewed Green tea,Serenity Green Tea Lg,5,Lower Manhattan,6,3,18,10.8,7.2,40
+2023-03-22,36,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,5,Lower Manhattan,6,3.75,22.5,13.5,9,40
+2023-03-22,39,Coffee,Barista Espresso,Latte Rg,3,Astoria,12,4.25,51,30.6,20.4,40
+2023-03-22,74,Bakery,Biscotti,Ginger Biscotti,8,Hell's Kitchen,3,3.5,10.5,6.3,4.2,40
+2023-03-22,74,Bakery,Biscotti,Ginger Biscotti,3,Astoria,4,3.5,14,8.4,5.6,40
+2023-03-22,87,Coffee,Barista Espresso,Ouro Brasileiro shot,8,Hell's Kitchen,11,2.5,28.5,17.1,11.4,40
+2023-03-22,26,Coffee,Organic brewed coffee,Brazilian Rg,8,Hell's Kitchen,5,3,15,9,6,40
+2023-03-22,47,Tea,Brewed Green tea,Serenity Green Tea Lg,8,Hell's Kitchen,7,3,21,12.6,8.4,40
+2023-03-22,75,Bakery,Pastry,Croissant,3,Astoria,3,3.5,10.5,6.3,4.2,40
+2023-03-22,42,Tea,Brewed herbal tea,Lemon Grass Rg,3,Astoria,6,2.5,15,9,6,40
+2023-03-22,51,Tea,Brewed Black tea,Earl Grey Lg,5,Lower Manhattan,3,3,9,5.4,3.6,40
+2023-03-23,37,Coffee,Barista Espresso,Espresso shot,5,Lower Manhattan,14,3,42,25.2,16.8,40
+2023-03-23,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,5,Lower Manhattan,11,3.75,41.25,24.75,16.5,40
+2023-03-23,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,8,Hell's Kitchen,5,3.1,15.5,9.3,6.2,40
+2023-03-23,45,Tea,Brewed herbal tea,Peppermint Lg,8,Hell's Kitchen,8,3,24,14.4,9.6,40
+2023-03-23,87,Coffee,Barista Espresso,Ouro Brasileiro shot,5,Lower Manhattan,10,2.28,23.7,14.22,9.48,40
+2023-03-23,64,Flavours,Regular syrup,Hazelnut syrup,5,Lower Manhattan,8,0.8,6.4,3.84,2.56,40
+2023-03-23,43,Tea,Brewed herbal tea,Lemon Grass Lg,3,Astoria,8,3,24,14.4,9.6,40
+2023-03-23,43,Tea,Brewed herbal tea,Lemon Grass Lg,8,Hell's Kitchen,5,3,15,9,6,40
+2023-03-23,51,Tea,Brewed Black tea,Earl Grey Lg,5,Lower Manhattan,5,3,15,9,6,40
+2023-03-24,40,Coffee,Barista Espresso,Cappuccino,5,Lower Manhattan,11,3.75,41.25,24.75,16.5,40
+2023-03-24,43,Tea,Brewed herbal tea,Lemon Grass Lg,3,Astoria,6,3,18,10.8,7.2,40
+2023-03-24,23,Coffee,Drip coffee,Our Old Time Diner Blend Rg,5,Lower Manhattan,3,2.5,7.5,4.5,3,40
+2023-03-24,45,Tea,Brewed herbal tea,Peppermint Lg,3,Astoria,8,3,24,14.4,9.6,40
+2023-03-24,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,3,Astoria,8,2,16,9.6,6.4,40
+2023-03-24,39,Coffee,Barista Espresso,Latte Rg,3,Astoria,21,4.25,89.25,53.55,35.7,40
+2023-03-24,6,Coffee beans,Gourmet Beans,Ethiopia,5,Lower Manhattan,1,21,21,12.6,8.4,40
+2023-03-24,41,Coffee,Barista Espresso,Cappuccino Lg,3,Astoria,8,4.25,34,20.4,13.6,40
+2023-03-24,65,Flavours,Sugar free syrup,Sugar Free Vanilla syrup,5,Lower Manhattan,5,0.8,4,2.4,1.6,40
+2023-03-24,3,Coffee beans,Espresso Beans,Espresso Roast,5,Lower Manhattan,1,14.75,14.75,8.85,5.9,40
+2023-03-25,38,Coffee,Barista Espresso,Latte,5,Lower Manhattan,13,3.75,48.75,29.25,19.5,40
+2023-03-25,25,Coffee,Organic brewed coffee,Brazilian Sm,5,Lower Manhattan,11,2.2,24.2,14.52,9.68,40
+2023-03-25,43,Tea,Brewed herbal tea,Lemon Grass Lg,8,Hell's Kitchen,5,3,15,9,6,40
+2023-03-25,72,Bakery,Scone,Ginger Scone,5,Lower Manhattan,10,2.92,28.9,17.34,11.56,40
+2023-03-25,34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,5,Lower Manhattan,15,2.45,36.75,22.05,14.7,40
+2023-03-25,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,8,Hell's Kitchen,6,4.75,28.5,17.1,11.4,40
+2023-03-25,25,Coffee,Organic brewed coffee,Brazilian Sm,8,Hell's Kitchen,18,2.2,39.6,23.76,15.84,40
+2023-03-25,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,3,Astoria,5,2.5,12.5,7.5,5,40
+2023-03-25,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,8,Hell's Kitchen,4,3,12,7.2,4.8,40
+2023-03-25,78,Bakery,Scone,Scottish Cream Scone ,8,Hell's Kitchen,1,4.5,4.5,2.7,1.8,40
+2023-03-25,47,Tea,Brewed Green tea,Serenity Green Tea Lg,8,Hell's Kitchen,3,3,9,5.4,3.6,40
+2023-03-25,25,Coffee,Organic brewed coffee,Brazilian Sm,3,Astoria,10,2.2,22,13.2,8.8,40
+2023-03-25,79,Bakery,Scone,Jumbo Savory Scone,3,Astoria,2,3.75,7.5,4.5,3,40
+2023-03-26,3,Coffee beans,Espresso Beans,Espresso Roast,8,Hell's Kitchen,1,14.75,14.75,8.85,5.9,40
+2023-03-26,73,Bakery,Pastry,Almond Croissant,5,Lower Manhattan,1,3.75,3.75,2.25,1.5,40
+2023-03-26,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,3,Astoria,13,2,26,15.6,10.4,40
+2023-03-26,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,3,Astoria,11,2.55,28.05,16.83,11.22,40
+2023-03-26,10,Coffee beans,Green beans,Guatemalan Sustainably Grown,8,Hell's Kitchen,1,10,10,6,4,40
+2023-03-27,41,Coffee,Barista Espresso,Cappuccino Lg,3,Astoria,8,4.25,34,20.4,13.6,40
+2023-03-27,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,3,Astoria,10,2.5,25,15,10,40
+2023-03-27,51,Tea,Brewed Black tea,Earl Grey Lg,5,Lower Manhattan,18,3,54,32.4,21.6,40
+2023-03-27,2,Coffee beans,House blend Beans,Our Old Time Diner Blend,5,Lower Manhattan,1,18,18,10.8,7.2,40
+2023-03-27,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,3,Astoria,14,2,28,16.8,11.2,40
+2023-03-27,60,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,5,Lower Manhattan,16,3.75,60,36,24,40
+2023-03-27,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,3,Astoria,15,3,45,27,18,40
+2023-03-27,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,8,Hell's Kitchen,4,2.5,10,6,4,40
+2023-03-27,75,Bakery,Pastry,Croissant,3,Astoria,4,3.5,14,8.4,5.6,40
+2023-03-27,51,Tea,Brewed Black tea,Earl Grey Lg,8,Hell's Kitchen,5,3,15,9,6,40
+2023-03-27,64,Flavours,Regular syrup,Hazelnut syrup,8,Hell's Kitchen,8,0.8,6.4,3.84,2.56,40
+2023-03-27,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,3,Astoria,6,2.55,15.3,9.18,6.12,40
+2023-03-27,50,Tea,Brewed Black tea,Earl Grey Rg,3,Astoria,5,2.5,12.5,7.5,5,40
+2023-03-27,73,Bakery,Pastry,Almond Croissant,5,Lower Manhattan,3,3.75,11.25,6.75,4.5,40
+2023-03-28,46,Tea,Brewed Green tea,Serenity Green Tea Rg,3,Astoria,12,2.5,30,18,12,40
+2023-03-28,46,Tea,Brewed Green tea,Serenity Green Tea Rg,8,Hell's Kitchen,11,2.5,27.5,16.5,11,40
+2023-03-28,42,Tea,Brewed herbal tea,Lemon Grass Rg,8,Hell's Kitchen,8,2.5,20,12,8,40
+2023-03-28,40,Coffee,Barista Espresso,Cappuccino,3,Astoria,7,3.75,26.25,15.75,10.5,40
+2023-03-28,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,8,Hell's Kitchen,3,3,9,5.4,3.6,40
+2023-03-28,44,Tea,Brewed herbal tea,Peppermint Rg,5,Lower Manhattan,8,2.5,20,12,8,40
+2023-03-28,22,Coffee,Drip coffee,Our Old Time Diner Blend Sm,5,Lower Manhattan,8,2,16,9.6,6.4,40
+2023-03-28,51,Tea,Brewed Black tea,Earl Grey Lg,8,Hell's Kitchen,2,3,6,3.6,2.4,40
+2023-03-28,69,Bakery,Biscotti,Hazelnut Biscotti,3,Astoria,1,3.25,3.25,1.95,1.3,40
+2023-03-29,40,Coffee,Barista Espresso,Cappuccino,3,Astoria,4,3.75,15,9,6,40
+2023-03-29,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,5,Lower Manhattan,8,2.5,20,12,8,40
+2023-03-29,28,Coffee,Gourmet brewed coffee,Columbian Medium Roast Sm,5,Lower Manhattan,4,2,8,4.8,3.2,40
+2023-03-29,70,Bakery,Scone,Cranberry Scone,3,Astoria,5,3.25,16.25,9.75,6.5,40
+2023-03-29,26,Coffee,Organic brewed coffee,Brazilian Rg,8,Hell's Kitchen,5,3,15,9,6,40
+2023-03-29,46,Tea,Brewed Green tea,Serenity Green Tea Rg,8,Hell's Kitchen,4,2.5,10,6,4,40
+2023-03-29,78,Bakery,Scone,Scottish Cream Scone ,3,Astoria,4,4.5,18,10.8,7.2,40
+2023-03-29,52,Tea,Brewed Chai tea,Traditional Blend Chai Rg,3,Astoria,9,2.5,22.5,13.5,9,40
+2023-03-29,39,Coffee,Barista Espresso,Latte Rg,8,Hell's Kitchen,5,4.25,21.25,12.75,8.5,40
+2023-03-29,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,5,Lower Manhattan,3,3,9,5.4,3.6,40
+2023-03-29,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,3,Astoria,6,3,18,10.8,7.2,40
+2023-03-29,40,Coffee,Barista Espresso,Cappuccino,8,Hell's Kitchen,5,3.75,18.75,11.25,7.5,40
+2023-03-29,76,Bakery,Biscotti,Chocolate Chip Biscotti,8,Hell's Kitchen,1,3.5,3.5,2.1,1.4,40
+2023-03-29,47,Tea,Brewed Green tea,Serenity Green Tea Lg,8,Hell's Kitchen,6,3,18,10.8,7.2,40
+2023-03-30,87,Coffee,Barista Espresso,Ouro Brasileiro shot,5,Lower Manhattan,8,2.82,23.1,13.86,9.24,40
+2023-03-30,74,Bakery,Biscotti,Ginger Biscotti,5,Lower Manhattan,3,3.5,10.5,6.3,4.2,40
+2023-03-30,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,8,Hell's Kitchen,10,4.75,47.5,28.5,19,40
+2023-03-30,41,Coffee,Barista Espresso,Cappuccino Lg,5,Lower Manhattan,5,4.25,21.25,12.75,8.5,40
+2023-03-30,46,Tea,Brewed Green tea,Serenity Green Tea Rg,5,Lower Manhattan,9,2.5,22.5,13.5,9,40
+2023-03-30,39,Coffee,Barista Espresso,Latte Rg,3,Astoria,3,4.25,12.75,7.65,5.1,40
+2023-03-30,59,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,5,Lower Manhattan,1,4.5,4.5,2.7,1.8,40
+2023-03-30,55,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,8,Hell's Kitchen,4,4,16,9.6,6.4,40
+2023-03-30,8,Coffee beans,Premium Beans,Civet Cat,8,Hell's Kitchen,1,45,45,27,18,40
+2023-03-30,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,8,Hell's Kitchen,2,3,6,3.6,2.4,40
+2023-03-30,15,Loose Tea,Green tea,Serenity Green Tea,3,Astoria,2,9.25,18.5,11.1,7.4,40
+2023-03-30,21,Packaged Chocolate,Drinking Chocolate,Chili Mayan,8,Hell's Kitchen,1,13.33,13.33,8,5.33,40
+2023-03-30,38,Coffee,Barista Espresso,Latte,5,Lower Manhattan,2,3.75,7.5,4.5,3,40
+2023-03-30,27,Coffee,Organic brewed coffee,Brazilian Lg,5,Lower Manhattan,2,3.5,7,4.2,2.8,40
+2023-03-31,42,Tea,Brewed herbal tea,Lemon Grass Rg,5,Lower Manhattan,11,2.5,27.5,16.5,11,40
+2023-03-31,76,Bakery,Biscotti,Chocolate Chip Biscotti,8,Hell's Kitchen,5,3.5,17.5,10.5,7,40
+2023-03-31,29,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,5,Lower Manhattan,1,2.5,2.5,1.5,1,40
+2023-03-31,20,Packaged Chocolate,Organic Chocolate,Sustainably Grown Organic,8,Hell's Kitchen,1,7.6,7.6,4.56,3.04,40
+2023-03-31,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,5,Lower Manhattan,1,3.1,3.1,1.86,1.24,40
+2023-03-31,6,Coffee beans,Gourmet Beans,Ethiopia,5,Lower Manhattan,2,21,42,25.2,16.8,40
+2023-03-31,48,Tea,Brewed Black tea,English Breakfast Rg,5,Lower Manhattan,9,2.5,22.5,13.5,9,40
+2023-03-31,39,Coffee,Barista Espresso,Latte Rg,5,Lower Manhattan,3,4.25,12.75,7.65,5.1,40
+2023-03-31,69,Bakery,Biscotti,Hazelnut Biscotti,5,Lower Manhattan,3,3.25,9.75,5.85,3.9,40
+2023-03-31,50,Tea,Brewed Black tea,Earl Grey Rg,5,Lower Manhattan,5,2.5,12.5,7.5,5,40
+2023-03-31,30,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,3,Astoria,4,3,12,7.2,4.8,40
+2023-03-31,79,Bakery,Scone,Jumbo Savory Scone,3,Astoria,4,3.75,15,9,6,40
+2023-03-31,57,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,5,Lower Manhattan,4,3.1,12.4,7.44,4.96,40
+2023-03-31,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,3,Astoria,3,2.55,7.65,4.59,3.06,40
+2023-03-31,69,Bakery,Biscotti,Hazelnut Biscotti,8,Hell's Kitchen,1,3.25,3.25,1.95,1.3,40
+2023-03-31,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,5,Lower Manhattan,4,3,12,7.2,4.8,40
+2023-03-31,48,Tea,Brewed Black tea,English Breakfast Rg,3,Astoria,3,2.5,7.5,4.5,3,40
+2023-04-01,31,Coffee,Gourmet brewed coffee,Ethiopia Sm,5,Lower Manhattan,3,2.2,6.6,3.96,2.64,40
+2023-04-01,33,Coffee,Gourmet brewed coffee,Ethiopia Lg,8,Hell's Kitchen,13,3.5,45.5,27.3,18.2,40
+2023-04-01,51,Tea,Brewed Black tea,Earl Grey Lg,8,Hell's Kitchen,5,3,15,9,6,40
+2023-04-01,75,Bakery,Pastry,Croissant,8,Hell's Kitchen,3,3.5,10.5,6.3,4.2,40
+2023-04-02,61,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,5,Lower Manhattan,6,4.75,28.5,17.1,11.4,40
+2023-04-02,31,Coffee,Gourmet brewed coffee,Ethiopia Sm,8,Hell's Kitchen,11,2.2,24.2,14.52,9.68,40
+2023-04-02,56,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,8,Hell's Kitchen,5,2.55,12.75,7.65,5.1,40
+2023-04-02,54,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,5,Lower Manhattan,6,2.5,15,9,6,40
+2023-04-02,32,Coffee,Gourmet brewed coffee,Ethiopia Rg,3,Astoria,11,3,33,19.8,13.2,40
+2023-04-02,69,Bakery,Biscotti,Hazelnut Biscotti,3,Astoria,3,3.25,9.75,5.85,3.9,40
+2023-04-02,78,Bakery,Scone,Scottish Cream Scone ,5,Lower Manhattan,1,4.5,4.5,2.7,1.8,40
+2023-04-02,35,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,3,Astoria,6,3.1,18.6,11.16,7.44,40
+2023-04-02,59,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,3,Astoria,11,4.5,49.5,29.7,19.8,40
