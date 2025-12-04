@@ -1,0 +1,150 @@
+-- ==============================================
+-- 1. Create a Daily Sales View
+-- ==============================================
+CREATE OR REPLACE VIEW daily_sales AS
+SELECT
+    transaction_date,
+    product_id,
+    product_category,
+    product_type,
+    product_detail,
+    store_id,
+    store_location,
+    SUM(transaction_qty) AS total_qty_sold,
+    ROUND(AVG(unit_price), 2) AS avg_unit_price,
+    ROUND(SUM(transaction_qty * unit_price), 2) AS total_sales_value
+FROM bright_coffee_shop_analysis_transactions_1
+GROUP BY
+    transaction_date,
+    product_id,
+    product_category,
+    product_type,
+    product_detail,
+    store_id,
+    store_location;
+
+-- Check the tables and structure
+SHOW TABLES;
+DESCRIBE TABLE daily_sales;
+
+
+-- ==============================================
+-- 2. Create Daily Sales with Profit Calculations
+-- ==============================================
+CREATE OR REPLACE TABLE daily_sales_with_profit AS
+SELECT
+    *,
+    ROUND(total_sales_value * 0.6, 2) AS cost_of_sales,
+    ROUND(total_sales_value - (total_sales_value * 0.6), 2) AS gross_profit,
+    ROUND(((total_sales_value - (total_sales_value * 0.6)) / total_sales_value) * 100, 2) AS gross_profit_pct
+FROM daily_sales;
+
+-- Quick preview
+SELECT * FROM daily_sales_with_profit
+LIMIT 10;
+
+
+-- ==============================================
+-- 3. Daily Sales & Gross Profit by Product Category
+-- ==============================================
+SELECT
+    transaction_date,
+    product_category,
+    SUM(gross_profit) AS total_gross_profit,
+    SUM(total_sales_value) AS total_sales,
+    ROUND((SUM(gross_profit) / SUM(total_sales_value)) * 100, 2) AS gross_profit_pct
+FROM daily_sales_with_profit
+GROUP BY transaction_date, product_category
+ORDER BY transaction_date;
+
+
+-- ==============================================
+-- 4. Profit per Unit by Product
+-- ==============================================
+SELECT
+    transaction_date,
+    product_id,
+    ROUND(SUM(gross_profit) / SUM(total_qty_sold), 2) AS profit_per_unit
+FROM daily_sales_with_profit
+GROUP BY transaction_date, product_id;
+
+
+-- ==============================================
+-- 5. Price & Quantity Change, and Price Elasticity
+-- ==============================================
+SELECT
+    transaction_date,
+    product_id,
+    ROUND(AVG(avg_unit_price), 2) AS price_per_unit,
+    SUM(total_qty_sold) AS quantity_sold,
+
+    -- Previous period values
+    LAG(ROUND(AVG(avg_unit_price), 2)) OVER (PARTITION BY product_id ORDER BY transaction_date) AS prev_price,
+    LAG(SUM(total_qty_sold)) OVER (PARTITION BY product_id ORDER BY transaction_date) AS prev_quantity,
+
+    -- % Change in Quantity
+    ROUND(
+        try_divide(
+            (SUM(total_qty_sold) - LAG(SUM(total_qty_sold)) OVER (PARTITION BY product_id ORDER BY transaction_date)),
+            LAG(SUM(total_qty_sold)) OVER (PARTITION BY product_id ORDER BY transaction_date)
+        ) * 100, 2
+    ) AS pct_change_qty,
+
+    -- % Change in Price
+    ROUND(
+        try_divide(
+            (AVG(avg_unit_price) - LAG(AVG(avg_unit_price)) OVER (PARTITION BY product_id ORDER BY transaction_date)),
+            LAG(AVG(avg_unit_price)) OVER (PARTITION BY product_id ORDER BY transaction_date)
+        ) * 100, 2
+    ) AS pct_change_price,
+
+    -- Price Elasticity
+    ROUND(
+        try_divide(
+            try_divide(
+                (SUM(total_qty_sold) - LAG(SUM(total_qty_sold)) OVER (PARTITION BY product_id ORDER BY transaction_date)),
+                LAG(SUM(total_qty_sold)) OVER (PARTITION BY product_id ORDER BY transaction_date)
+            ),
+            try_divide(
+                (AVG(avg_unit_price) - LAG(AVG(avg_unit_price)) OVER (PARTITION BY product_id ORDER BY transaction_date)),
+                LAG(AVG(avg_unit_price)) OVER (PARTITION BY product_id ORDER BY transaction_date)
+            )
+        ), 2
+    ) AS price_elasticity
+
+FROM daily_sales_with_profit
+GROUP BY transaction_date, product_id
+ORDER BY product_id, transaction_date;
+
+
+-- ==============================================
+-- 6. Create Cleaned Sales Table
+-- ==============================================
+CREATE OR REPLACE TABLE clean_sales AS
+SELECT
+    transaction_date,
+    product_id,
+    product_category,
+    product_type,
+    product_detail,
+    store_id,
+    store_location,
+    total_qty_sold,
+    avg_unit_price,
+    total_sales_value,
+    cost_of_sales,
+    gross_profit,
+    gross_profit_pct
+FROM daily_sales_with_profit
+WHERE total_qty_sold IS NOT NULL
+  AND avg_unit_price IS NOT NULL
+  AND total_sales_value > 0
+  AND gross_profit_pct BETWEEN 0 AND 100;
+
+  SELECT COUNT(*) AS total_rows
+  FROM bright_coffee_shop_analysis_transactions_1;
+
+  SELECT * FROM clean_sales;
+
+  DESCRIBE TABLE
+  bright_coffee_shop_analysis_transactions_1;
